@@ -442,7 +442,7 @@ making great headway in the Society of Friends,
 and many ancient principles of Quakerism were being abandoned in favor of
 doctrines more suited to the wisdom and ability of the natural man.]
 
-[.letter-participants]
+[.letter-heading]
 From Christopher Healy To John Wilbur
 
 [.signed-section-context-open]
@@ -527,7 +527,7 @@ and remain your affectionate friend,
 [.signed-section-signature]
 Christopher Healy
 
-[.letter-participants]
+[.letter-heading]
 From Christopher Healy To John Wilbur
 
 [.signed-section-context-open]
