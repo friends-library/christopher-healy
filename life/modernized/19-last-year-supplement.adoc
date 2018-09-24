@@ -1,7 +1,7 @@
 [#supplement, short="The Last Year"]
 == Supplement: The Last Year of the Life of Christopher Healy
 
-[.alt]
+[.blurb]
 === by George Williams Brown
 
 At the beginning of summer in the year 1850,
