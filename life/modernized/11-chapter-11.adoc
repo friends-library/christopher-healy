@@ -54,6 +54,9 @@ that we can have our fruit unto holiness, and in the end everlasting life.
 The following letter from Samuel Reynolds, of Dover,
 was written to Christopher Healy some time in the year 1831:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Beloved Friend,
 
@@ -89,6 +92,8 @@ I remain your truly affectionate friend,
 [.signed-section-signature]
 Samuel Reynolds
 
+--
+
 The following letter, received by Christopher Healy about this time, from Joseph Thorp,
 who had for a time been his companion,
 alludes to his instructive and entertaining conversation,--a
@@ -107,6 +112,9 @@ remembering the dear Savior`'s own words:
 "`Whosoever shall be ashamed of me and of my words,
 of him shall the Son of man be ashamed when he shall come in his own glory,
 and in his Father`'s, and of the holy angels.`"
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Halifax, Second Month 27th, 1832.
@@ -148,6 +156,8 @@ I remain your assured friend,
 
 [.signed-section-signature]
 Joseph Thorp
+
+--
 
 Christopher Healy went to London on Seventh-day, the 12th of Fifth Month, 1832,
 in time to attend the Yearly Meeting.
@@ -223,6 +233,9 @@ The following letter addressed not to Christopher Healy,
 but to other persons concerning him,
 gives some insight into the nature of the testimony borne by our friend in England:--
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 My Dear Friends,
 
@@ -264,7 +277,8 @@ has many ways of transforming himself--even under the most upright intentions,
 and in the truest sincerity of desire,
 to be dedicated to the service of Him whom to know (from the deceit) is life eternal.`'
 
-Therefore, methinks,
+Therefore, methinks, 
+//Do you want this changed to "I think"....I just happened to see it.
 that all this very plain dealing of our beloved and honored friend and elder
 in the Truth (of which surely he is one among the valiants in our day) will
 not hurt or hinder the growth of the precious lowly plant of renown in us,
@@ -281,6 +295,8 @@ Your affectionate friend,
 [.signed-section-signature]
 J+++.+++ W.
 
+--
+
 Third Month, 1832.
 
 Alexander Dirkin related that when he was in England,
@@ -290,6 +306,9 @@ for he was not afraid to challenge a Peter or a Paul, and to say, '`You are the 
 
 The following are extracts from letters which were addressed to Christopher Healy,
 before he left England, according to their respective dates:--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Moyallen, 5th of First Month, 1832
@@ -305,8 +324,12 @@ and your companion, your affectionate friend,
 [.signed-section-signature]
 Thos. Christy Wakefield.
 
+--
+
 [.asterism]
 '''
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Trumery, Fifth Month 4th, 1832
@@ -343,6 +366,8 @@ and am your affectionate friend,
 
 [.signed-section-signature]
 Jacob Green
+
+--
 
 Several letters are preserved among Christopher Healy`'s papers, from different Friends,
 expressive of their interest in his labors in Great Britain,

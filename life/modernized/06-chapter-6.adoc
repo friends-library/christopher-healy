@@ -230,11 +230,14 @@ with their appreciation of his gospel labors.
 They are thus endorsed by Christopher Healy:--
 "`Some letters received by my wife while I was in Rhode Island.`"
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Providence, 31st of Tenth Month, 1812.
 
 [.salutation]
-Dear Friend
+Dear Friend,
 
 Though personally unknown to me, I take the liberty of thus addressing you.
 Having been some days in company with your beloved husband in attending meetings,
@@ -288,14 +291,19 @@ Yours affectionately,
 [.signed-section-signature]
 Dorcas Brown
 
+--
+
 [.asterism]
 '''
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Swansea, 5th of Eleventh Month, 1812.
 
 [.salutation]
-Beloved Friend
+Beloved Friend,
 
 I thought I felt a precious liberty to salute you in endeared affection,
 having not only to feel with your dear husband since his lot has been cast in this land,
@@ -344,6 +352,8 @@ It is near the hour of gathering, so I bid you farewell.
 
 [.signed-section-signature]
 Lydia Weeks
+
+--
 
 At the next Monthly Meeting succeeding his return from this journey,
 he again laid before it an exercise which had for some time attended his mind,
@@ -453,6 +463,9 @@ From these we select the following.
 To the former, dated Charlotte, 2nd Mo. 10th, 1818,
 there is this endorsement by Christopher Healy "`A letter from Mary Varney to my wife.`"
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 My Dear Friend:
 
@@ -486,9 +499,14 @@ Thus with a salutation of love unfeigned, I affectionately bid you farewell,
 [.signed-section-signature]
 Mary Varney
 
+--
+
 The next letter, addressed to Christopher Healy,
 seems almost prophetical of that forthcoming chastening,
 which suddenly and forever severed his dear companion from him.--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Charlotte, Third Month 4th, 1813.
@@ -535,8 +553,13 @@ but that I may be sustained and supported to the praise of His ever worthy name.
 [.signed-section-signature]
 Mary Varney.
 
+--
+
 The following, from the same,
 holds out the cordial of tender sympathy to his bereaved and afflicted mind.--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Granville, Fifth Month 4th, 1813.
@@ -570,7 +593,12 @@ desiring your sympathy.
 [.signed-section-signature]
 Mary Varney
 
+--
+
 John Wilbur also thus writes to him on this sorrow stirring occasion:--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Hopkinton, Fifth Month 23rd, 1813.
@@ -624,3 +652,6 @@ I remain affectionately your friend,
 
 [.signed-section-signature]
 John Wilbur
+
+--
+

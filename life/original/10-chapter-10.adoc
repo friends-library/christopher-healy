@@ -88,6 +88,9 @@ as was Thomas Shillitoe.
 
 About this time he wrote to his wife; from which the following is extracted:--
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Stoke Newington, Tenth Month, 10th, 1831.
 
@@ -144,6 +147,8 @@ I take my leave, and bid thee farewell in the Lord.
 [.signed-section-signature]
 Christopher Healy
 
+--
+
 At Uxbridge he attended a meeting of Friends;
 which he writes was "`a trying time;`" and then adds,
 "`as it has often been with me since being in this land.
@@ -173,6 +178,9 @@ I have no doubt but that he made a happy close.
 The following letter from his friend Ann Jones, alludes to this illness,
 and also to the death of Jonathan Taylor;
 and on other accounts is well worthy an attentive perusal:--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Stockport, Eleventh Month 23rd, 1831.
@@ -285,8 +293,13 @@ Thy friend,
 [.signed-section-signature]
 Ann Jones
 
+--
+
 The following are extracts from a letter of our late beloved friend William Evans,
 to Christopher Healy while in England:
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Philadelphia, Twelfth Month, 22nd, 1831.
@@ -396,3 +409,6 @@ From thy affectionate friend,
 
 [.signed-section-signature]
 William Evans
+
+--
+
