@@ -313,9 +313,6 @@ Christopher Healy
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 

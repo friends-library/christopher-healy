@@ -295,9 +295,6 @@ Dorcas Brown
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 

@@ -293,9 +293,6 @@ Dorcas Brown
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -654,4 +651,3 @@ I remain affectionately your friend,
 John Wilbur
 
 --
-
