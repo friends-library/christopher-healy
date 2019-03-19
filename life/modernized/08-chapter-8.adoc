@@ -295,6 +295,9 @@ and had many favored meetings with Friends and others.`"
 
 While out on this visit, he thus wrote to his wife:--
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Queensbury, 12th of First Month, 1824.
 
@@ -334,6 +337,8 @@ Your loving husband,
 
 [.signed-section-signature]
 Christopher Healy
+
+--
 
 Wishing to get to the HalfYear`'s Meeting in Upper Canada,
 they crossed the river St. Lawrence.

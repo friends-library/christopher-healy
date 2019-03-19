@@ -163,6 +163,9 @@ tending to encourage her in her loneliness,
 and conveying their sense of his ministerial services among them,
 we select the following from the pen of Nathan Hunt:--
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Springfield, Guilford Co., N. C,
 
@@ -218,6 +221,8 @@ I am thy affectionate friend,
 
 [.signed-section-signature]
 Nathan Hunt
+
+--
 
 Here our friend again alludes to the unsound
 views then being disseminated by Elias Hicks,
