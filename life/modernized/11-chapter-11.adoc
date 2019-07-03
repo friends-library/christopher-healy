@@ -22,8 +22,12 @@ who alone can give strength for his work and service.`"
 From there he went to Clonmel, Limerick, Roscrea, Mountrath, Mountmellick;
 and returning to Dublin, took steamer for Liverpool.
 
+[.offset]
 Extract from a letter written by Mary J. Lecky, dated Second Month, 12th,
-1832,--and addressed to Sarah Healy:--
+1832, and addressed to Sarah Healy:
+
+[.embedded-content-document.letter]
+--
 
 In the City of Cork he had a meeting with Friends; a remarkable season.
 He wrote me that it was a very open time,
@@ -38,19 +42,25 @@ he had much service with Friends on First-day forenoon,
 and with those of other professions in the afternoon; favored seasons.
 It was sweet to sit under his ministry.
 
+--
+
 After returning from Ireland to England, he held many public meetings,
 the most of which he records were to good satisfaction.
 He thus alludes to one of them:--
 
-The doctrines of Truth being opened, a hireling ministry, with the subject of war,
+[.small-break]
+'''
+
+"`The doctrines of Truth being opened, a hireling ministry, with the subject of war,
 as being inconsistent with the gospel, and contrary to the command of Jesus,
 was closely spoken to.
 The necessity of taking up the cross of our holy
 Redeemer before we can become his followers,
 was also dwelt upon.
 It being only as we do this, through obedience to the teaching of his grace,
-that we can have our fruit unto holiness, and in the end everlasting life.
+that we can have our fruit unto holiness, and in the end everlasting life.`"
 
+[.offset]
 The following letter from Samuel Reynolds, of Dover,
 was written to Christopher Healy some time in the year 1831:--
 
@@ -139,7 +149,7 @@ I have marked your progress; have felt interested in it;
 and while my heart has breathed fervently for your preservation,
 and that you may be favored to return in peace to the bosom of your family,
 I have felt answered in the belief that He will keep, who has called you;
-and that He wall preserve you in the work whereunto he has called`' you.
+and that He will preserve you in the work whereunto he has called you.
 
 I have much pleasure in calling to remembrance the
 subjects upon which you touched in your conversation;
@@ -168,8 +178,12 @@ In London he stopped at the house of his friend John Sanderson "`Here,`" he writ
 "`I received a consoling letter from my dear wife.`"
 At Northampton and at Bardfield respectively, he sent letters to her.
 From these the following extracts are taken.
-They set forth some of the exercises which were his portion while on that foreign shore:--
+They set forth some of the exercises which were his portion while on that foreign shore:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Northampton, Third Month 20th, 1832.
 
 I have had much close labor in this land,
@@ -183,6 +197,7 @@ Such, wherever they are in meetings, make hard work.
 But blessed be the great Name of the good Shepherd,
 He has abundantly appeared and given the victory May my poor soul be humbled before him.
 
+[.signed-section-context-open]
 Bardfield, Essex, Fourth Month 4th, 1832.
 
 I feel as though I had plenty of time to get through with all
@@ -228,6 +243,8 @@ and in a remarkable manner brought them forth to preach
 in the demonstration of the Spirit and with power,
 whereby many were added to the church.
 May such days be known among us again, if it please You, our Holy Helper.
+
+--
 
 The following letter addressed not to Christopher Healy,
 but to other persons concerning him,
@@ -294,14 +311,15 @@ Your affectionate friend,
 [.signed-section-signature]
 J+++.+++ W.
 
---
-
+[.signed-section-context-open]
 Third Month, 1832.
 
 Alexander Dirkin related that when he was in England,
 and conversing with the late John Barclay about Christopher Healy, John remarked,
 "`that Christopher was the right kind of a man to come there on a religious visit,
-for he was not afraid to challenge a Peter or a Paul, and to say, '`You are the man.`'`"
+for he was not afraid to challenge a Peter or a Paul, and to say, "`You are the man."
+
+--
 
 The following are extracts from letters which were addressed to Christopher Healy,
 before he left England, according to their respective dates:--
@@ -399,7 +417,8 @@ stating that the few words uttered by him at that
 interview were the first thing that had opened his eyes,
 and led to a change in his views.
 
-Diary resumed:--
+[.offset]
+Diary resumed:
 
 First-day morning, Fifth Month, 13th.--Attended Grace-Church Street meeting.
 Afternoon, that of Devonshire house.
@@ -417,7 +436,7 @@ The meeting was favored, particularly at the conclusion;
 and Friends parted in the love of the great Head of the Church.
 On the Seventh day of the week, went to Tottenham.
 First-day morning attended Friends`' meeting there.
-In the afternoon rode to Hitchin, twentyseven miles from London.
+In the afternoon rode to Hitchin, twenty-seven miles from London.
 Second-day pursued our way towards Liverpool, the place proposed to embark.
 Third-day took stage to Manchester, and from there to Liverpool.
 Fourth-day rested.
@@ -433,18 +452,22 @@ will not soon be forgotten by us.
 On the morning of the 8th of Sixth Month, 1832, being the Sixth of the week,
 we went on board the ship Algonquin, bound for Philadelphia, Thomas Cropper, master.
 
-Christopher Healy and his friend Jacob Green were the only cabin passengers.
+[.small-break]
+'''
+
++++[+++Christopher Healy and his friend Jacob Green were the only cabin passengers.
 They held meetings through the course of the voyage,
 to which many of the steerage passengers came.
-While on the passage homeward he thus writes:--
+While on the passage homeward he thus writes:]
+
+[.small-break]
+'''
 
 My mind is comforted in looking over my visit to England and Ireland;
 and the prospect is pleasant also in looking towards home, to my dear wife and children,
 as well as many of my dear friends.
 Oh may I be humbled in thanksgiving and praise to Him,
 who rules the winds and on the ocean rides; the only preserver of men.
-
-(Again):--
 
 First-day, the ship rolled so, that we could not have a meeting.
 But I humbly trust my mind was preserved in submission to the Divine will.
@@ -454,10 +477,8 @@ Oh may this be my happy case!
 Then will all things work together for good, and the Lord will have the praise,
 who alone is worthy.
 
-And again, Sixth Month, 25th:--
-
-The wind increased and the sea rose, tossing the ship very much.
-26th.--The wind strong, and the sea very high.
+Sixth Month, 25th: The wind increased and the sea rose, tossing the ship very much.
+26th. The wind strong, and the sea very high.
 Oh the awfulness of the great deep!
 The sea continuing to increase, a part of the vessel and rigging was carried away.
 Never did my eyes behold greater wonders on the rolling, foaming deep, than this day.
@@ -465,9 +486,7 @@ We got but very little sleep.
 My trust was in the Lord alone;
 who could command the winds and the mighty sea that so greatly raged and roared.
 
-Again, Seventh Month, 16th:--
-
-We are now about one hundred and fifty miles from the capes.
+Seventh Month, 16th: We are now about one hundred and fifty miles from the capes.
 The weather warm and pleasant.
 May we be thankful to the Lord for his many favors.
 Some of our steerage passengers having a longer voyage than they expected,
@@ -477,6 +496,9 @@ with the favor of heaven, may soon bring us to our desired port.
 But of ourselves we can do nothing.
 May we, under a humbling sense thereof, look to Him who created the winds and the seas,
 and rules them at his pleasure.
+
+[.small-break]
+'''
 
 Our dear friend finally reached his home on the 21st of Seventh Month, 1832,
 and found his wife and family well, "`which,`" as he records,

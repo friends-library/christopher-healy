@@ -31,7 +31,10 @@ the concurrence of the Monthly and Quarterly Meetings was duly granted;
 and taking leave of his dear wife and family, he proceeded thereon in Tenth Month, 1833,
 accompanied by Benjamin Cadwallader.
 The memoranda of this and the few following journeys, are concise.
-A few extracts therefrom are as follow:--
+A few extracts therefrom are as follow:
+
+[.small-break]
+'''
 
 First-day, again attended Coeymans`' meeting.
 A very large gathering.
@@ -47,6 +50,7 @@ They expressed much thankfulness to the Great Spirit for this favored opportunit
 How true it is, that Christ is given for a light to the Gentiles;
 that He may be God`'s salvation to the ends of the earth.
 
+[.offset]
 At Madison, Christopher Healy writes:--
 
 I met with some of my former acquaintance, particularly two men and their wives,
@@ -60,6 +64,7 @@ In a short time they returned to Friends, acknowledging they had been misled.
 And I have no doubt there are many more such amongst them.
 May the Good Shepherd be near to help these sincere ones, whoever and wherever they are.
 
+[.offset]
 While on this visit, he addressed a letter to his wife,
 from which the following is extracted:--
 
@@ -67,14 +72,14 @@ from which the following is extracted:--
 --
 
 And now, my dearly beloved wife, be of good cheer; and be filled with joyful hope.
-I believe if thou continues to cast all thy care on Him who cares for us,
+I believe if thou continue to cast all thy care on Him who cares for us,
 and has been our Preserver and Comforter, He will be thy comforter still,
 in thy husband`'s absence.
 I may say without boasting, the Lord is my Shepherd,
 in whom I trust day and night--this blessed Shepherd of Israel,
 who was pleased to unite our hearts together,
 and enables us to resign each other for his blessed cause and
-testimony.--Neither do I see but that we may be favored to
+testimony. Neither do I see but that we may be favored to
 meet again in the sweet embraces of Heavenly love.
 Benjamin travels cheerfully, and makes a pleasant and very agreeable companion.
 Give my dear love to his wife.
@@ -119,6 +124,7 @@ and my Father are one?`" Oh how mournful is this same spirit of unbelief!
 May their eyes be opened to see the great delusion by
 which the grand deceiver has ensnared them.
 
+[.offset]
 Upon their return home, he thus writes:--
 
 What added much to the comfort of the journey,
@@ -127,6 +133,9 @@ He travelled cheerfully, though it was a laborious one as to the flesh.
 But He who is strength in weakness, riches in poverty,
 and a present help in time of need, was pleased to make bare His Arm for us.
 Oh may we ever trust in Him, who never said to the seed of Jacob, seek ye my face in vain.
+
+[.small-break]
+'''
 
 Benjamin Cadwallader, in returning his certificate in the Third Month, 1834,
 said that Christopher Healy and himself had visited the
@@ -140,13 +149,16 @@ The memoranda continue:--
 
 Though some seasons during this Yearly Meeting were trying,
 there were many deeply exercised minds present,
-und some favored testimonies were borne in the life and power of the gospel;
+and some favored testimonies were borne in the life and power of the gospel;
 and I trust the meeting closed under thankful acknowledgments
 to that Good Hand that first raised us up to be a people.
 
 He visited during this journey a small tribe of Indians,
 with whom he previously had had several meetings.
 He writes:--
+
+[.small-break]
+'''
 
 How thankful they always are;
 I am scarcely able to find words to convey my sympathy for these poor afflicted people.
@@ -267,12 +279,12 @@ from which the following extracts are taken:--
 --
 
 Skeneateles, New York, 20th of Fifth Month, 1838. On leaving Brookfield,
-we were invited to stop at one of their neighbor, who they thought was dying.
+we were invited to stop at one of their neighbors, who they thought was dying.
 We went in and sat down, and in about half an hour the poor man breathed his last.
 Oh what a solemn time it was!
 After a precious silence, and a few words of comfort to the family,
 we proceeded to Brothertown, where the first tribe of Indians on our route reside.
-On Fifth-day, at three o`'clock p. M., the Indians came together, and some white people.
+On Fifth-day, at three o`'clock p. m., the Indians came together, and some white people.
 The meeting was a good one.
 They understood our language.
 Sixth-day came to Oneida, where were about five hundred Indians.
@@ -402,7 +414,7 @@ I asked him if he thought they clashed? He said he believed that Scripture;
 and asked me if I did not? I told him, yea; I verily did believe that declaration.
 I told him that we (Friends) had always held that true believers in Christ were built,
 as the apostle testifies, on the foundation of the apostles and prophets,
-Jesus Christ himself being the chief corner-stone.
+Jesus Christ himself being the chief cornerstone.
 And, our ancient Friend, George Fox, concerning faith in Christ, declared:
 that we believe in that same Jesus that was crucified without the gates of Jerusalem,
 the same that was the foundation of all the holy prophets and apostles,
