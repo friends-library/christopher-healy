@@ -46,7 +46,7 @@ These errors, which the principal leaders of the Separatists of that day propaga
 were brought into view by quotations from their printed discourses.
 It was distinctly stated that, notwithstanding they professed to believe in Christ,
 if they would confess their real sentiments,
-it would be found they denied that He who was born of the Virgin Man,
+it would be found they denied that He who was born of the Virgin Mary,
 and respecting whom it is declared, that,
 "`when He brings the First Begotten into the world He says,
 let all the angels of God worship Him,`" is the Savior of men.
@@ -100,7 +100,7 @@ but many stood in the yard where they could hear.
 A solemn stillness prevailed over the whole assembly.
 It was evident the heart-melting presence of the Divine Master covered the meeting;
 and ability and strength were given to declare the doctrines of the gospel,
-and the righteous testimonies thereof.--Many minds, both of slaveholders and slaves,
+and the righteous testimonies thereof. Many minds, both of slaveholders and slaves,
 were tendered; and my own soul did secretly praise the Lord our God.
 
 After having many meetings in the lower part of Virginia,
@@ -110,7 +110,7 @@ A large number attended,
 and the meeting was favored with the life-giving
 presence of our Holy Head and heavenly Shepherd.
 We passed from there down to Elizabeth City,
-having a number of large meetings on the way.--The masters and
+having a number of large meetings on the way. The masters and
 slaves expressed their great comfort in our visit to them.
 Here we saw many poor colored people, very aged, whose heads were white,
 walking with staffs, and some with two, to enable them to get about.
@@ -192,7 +192,7 @@ and we understand him, being like face answering to face in a glass.
 He is as bone of our bone, and flesh of our flesh; a brother indeed;
 and we will have no other doctrine than that which he preaches.
 
-"`If you, dear heart, feels sometimes lonely and sorrowful,
+"`If you, dear heart, feel sometimes lonely and sorrowful,
 let this thought cheer your mind,--my dear husband is making many glad;
 and they that go forth weeping and sorrowing, doubtless shall come again rejoicing,
 bringing their sheaves with them.
@@ -207,7 +207,7 @@ that we may keep the eye single to the Lord,
 in what situation soever He may be pleased to place us in his house.
 For it appears some have to go forth to battle, and some to stay by the stuff;
 but all share alike in the spoil.
-The beauty is, for every one to be in their allotted station.
+The beauty is, for everyone to be in their allotted station.
 My dear wife and myself are prepared to feel with you and your dear husband,
 in your separation, as it has been often our lot to be separated for the work`'s sake.
 But it matters not what may be the pathway through the
@@ -224,9 +224,12 @@ Nathan Hunt
 
 --
 
-Here our friend again alludes to the unsound
++++[+++Here our friend again alludes to the unsound
 views then being disseminated by Elias Hicks,
-and some of his adherents:--
+and some of his adherents:]
+
+[.small-break]
+'''
 
 The unsound principles promulgated by Elias Hicks,
 had now increased very much within the compass of our Yearly Meeting and several others,
@@ -252,10 +255,16 @@ as well as many others, had to feel and taste of during this great conflict.
 "`Oh my soul, come not into their secret; unto their assemblies, my honor,
 be not united.`"
 
-Again,
+[.small-break]
+'''
+
++++[+++Again,
 after a reference to the very trying occurrences
 in New York Yearly Meeting in the Fifth Month,
-1828, which he attended, he writes:--
+1828, which he attended, he writes:]
+
+[.small-break]
+'''
 
 Upon the conclusion of the Yearly Meeting,
 I went in company with the Yearly Meeting`'s committee as far as Bridgewater;
