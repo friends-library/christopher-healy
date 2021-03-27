@@ -1,4 +1,4 @@
-[#supplement, short="The Last Year"]
+[short="The Last Year"]
 == Supplement: The Last Year of the Life of Christopher Healy
 
 [.blurb]
