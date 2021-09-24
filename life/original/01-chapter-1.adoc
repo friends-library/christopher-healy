@@ -88,7 +88,7 @@ my parents first made profession of religion;
 my father being convinced of the principles of truth--the
 light of Christ shining in the heart of man--as held to,
 and maintained by the people called Quakers: which people,
-till then I had never remembered to have heard of But my
+till then I had never remembered to have heard of. But my
 mother inclined towards those called the New-light Baptists;
 and was zealous that way.
 This last named people were numerous where we then lived;
@@ -208,8 +208,11 @@ and pressed us to make his house our home when we did come.
 His truly friendly conduct to us made a deep and lasting impression on my mind.
 This man was doctor Thomas Wilbur, the father of my dear friend John Wilbur.
 
-The following anecdote, though not in the memoranda,
-is deemed sufficiently interesting to insert here:
+[.small-break]
+'''
+
++++[+++The following anecdote, though not in the memoranda,
+is deemed sufficiently interesting to insert here:]
 
 [quote]
 ____
@@ -251,7 +254,7 @@ where, speaking in the name of the Most High,
 it is said '`They have built the high places of Tophet,
 which is in the valley of the son of Hinnom,
 to burn their sons and their daughters in the fire, which I commanded them not,
-neither came it into my heart`' Showing that these things were not preordained of God,
+neither came it into my heart;`' showing that these things were not preordained of God,
 but were of man`'s own wickedness.
 The astonished schoolmaster could only say,
 he '`did not think there had been anything like it in the Bible.`' However,
@@ -272,7 +275,7 @@ His old master seemed rejoiced to see him, and clung to him with affection;
 and his schoolfellows received him with open arms.
 ____
 
-Though but about sixteen years of age, he saw plainly the danger of living an easy,
++++[+++Though but about sixteen years of age, he saw plainly the danger of living an easy,
 unconcerned life in conformity with the fashions and customs of the world,
 and that the surrender of the will unto Him who endured the cross,
 despising the shame for us,
@@ -291,7 +294,11 @@ and in consideration thereof he faithfully practised that denial of self,
 and the maintenance of the daily cross, which the Truth ever leads into,
 and by which alone the peace of mind he so greatly coveted, could be secured.
 
-His Journal continued:
+[.offset]
+His journal continued:]
+
+[.small-break]
+'''
 
 But to proceed with my own experience, I had many solitary walks by night and by day,
 wherein I saw my situation,

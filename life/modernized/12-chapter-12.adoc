@@ -12,7 +12,7 @@
 * Extracts from Letters to His Wife
 * Testimony to Christ Inwardly Revealed as the Foundation of the Faith and Practice of Friends
 
-After his return to America, Christopher Healy`'s first religious service from home,
++++[+++After his return to America, Christopher Healy`'s first religious service from home,
 was a visit to the meetings composing his own Quarterly Meeting,
 and subsequently the families of the same; and also many of the meetings in New Jersey;
 in which, as he writes,
@@ -31,7 +31,7 @@ the concurrence of the Monthly and Quarterly Meetings was duly granted;
 and taking leave of his dear wife and family, he proceeded thereon in Tenth Month, 1833,
 accompanied by Benjamin Cadwallader.
 The memoranda of this and the few following journeys, are concise.
-A few extracts therefrom are as follow:
+A few extracts therefrom are as follow:]
 
 [.small-break]
 '''
@@ -51,7 +51,7 @@ How true it is, that Christ is given for a light to the Gentiles;
 that He may be God`'s salvation to the ends of the earth.
 
 [.offset]
-At Madison, Christopher Healy writes:
++++[+++At Madison, Christopher Healy writes:]
 
 I met with some of my former acquaintance, particularly two men and their wives,
 who had for years been associating with the separatists;
@@ -64,9 +64,11 @@ In a short time they returned to Friends, acknowledging they had been misled.
 And I have no doubt there are many more such among them.
 May the Good Shepherd be near to help these sincere ones, whoever and wherever they are.
 
-[.offset]
-While on this visit, he addressed a letter to his wife,
-from which the following is extracted:--
+[.small-break]
+'''
+
++++[+++While on this visit, he addressed a letter to his wife,
+from which the following is extracted:--]
 
 [.embedded-content-document.letter]
 --
@@ -98,9 +100,12 @@ Christopher Healy
 
 --
 
-At Hamburg he had a large meeting.
++++[+++At Hamburg he had a large meeting.
 Many of those who attended had gone off from Friends.
-He writes:
+He writes:]
+
+[.small-break]
+'''
 
 Here I was led to show the great difference between those who do not
 believe that our Lord Jesus Christ was anything more than a good man,
@@ -124,7 +129,7 @@ May their eyes be opened to see the great delusion by
 which the grand deceiver has ensnared them.
 
 [.offset]
-Upon their return home, he thus writes:--
++++[+++Upon their return home, he thus writes:--]
 
 What added much to the comfort of the journey,
 my dear companion was a truly uniting and sympathizing friend.
@@ -136,7 +141,7 @@ Oh may we ever trust in Him, who never said to the seed of Jacob, seek my face i
 [.small-break]
 '''
 
-Benjamin Cadwallader, in returning his certificate in the Third Month, 1834,
++++[+++Benjamin Cadwallader, in returning his certificate in the Third Month, 1834,
 said that Christopher Healy and himself had visited the
 greater part of the meetings of New York Yearly Meeting.
 
@@ -144,7 +149,10 @@ Resuming this religious visit, Christopher Healy, with Robert Alexander for comp
 in the Fifth Month, 1834, attended New York Yearly Meeting;
 making their home at his kind friend John Wood`'s, who, he writes,
 is "`a precious minister.`"
-The memoranda continue:--
+The memoranda continue:--]
+
+[.small-break]
+'''
 
 Though some seasons during this Yearly Meeting were trying,
 there were many deeply exercised minds present,
@@ -152,9 +160,12 @@ and some favored testimonies were borne in the life and power of the gospel;
 and I trust the meeting closed under thankful acknowledgments
 to that Good Hand that first raised us up to be a people.
 
-He visited during this journey a small tribe of Indians,
+[.small-break]
+'''
+
++++[+++He visited during this journey a small tribe of Indians,
 with whom he previously had had several meetings.
-He writes:--
+He writes:--]
 
 [.small-break]
 '''
@@ -167,18 +178,20 @@ Open your mouth, judge righteously, and plead the cause of the poor and needy.`"
 It seems as though the wrath of man has counted them
 not fit to live and enjoy themselves in this world.
 May we not expect that the Lord will visit for these things done to this people,
-and also to the African race.
+and also to the African race?
 Will not his soul be avenged on such a nation as we are, unless we repent,
 and submit to that holy and just rule of the dear Son of God:
 "`As you would that men should do to you, do you even so to them.`"
 
-Coming to North Kingston, he says:--
+[.offset]
++++[+++Coming to North Kingston, he says:--]
 
 My mind has been drawn to this place several times before;
 and finding great openness in the people`'s minds, a precious season it proved.
 May the Lord sanctify it for good to all present.
 
-He went from there to Greenwich; and next to Providence, where, his journal states,--
+[.offset]
++++[+++He went from there to Greenwich; and next to Providence, where, his journal states,--]
 
 I had a very trying meeting in the forepart, but got some relief.
 After meeting we went home with our dear aged friend Moses Brown,
@@ -191,7 +204,10 @@ and flourishing in the courts of our God; being green in old age.
 How edifying and instructive is the company of this dear father in Israel!
 Oh, says my soul, may the Lord raise up more such judges and counsellors in his church.
 
-Soon after this, they returned home; and, as he says, "`found all well;
+[.small-break]
+'''
+
++++[+++Soon after this, they returned home; and, as he says, "`found all well;
 and we rejoiced in Him of whom I could say, '`The Lord is my Shepherd; I shall not want.
 He makes me to lie down in green pastures;
 he leads me beside the still waters.`' Oh glory to his holy Name forever!`"
@@ -214,17 +230,26 @@ Attending the Northern District Monthly Meeting, he writes:
 and he set at liberty.
 We had many public meetings, as well as attended those of Friends,
 to the strength and encouragement of our minds.`"
-Here occurs the following memorandum:--
+Here occurs the following memorandum:--]
+
+[.small-break]
+'''
 
 How clear I am that the profession of the faith and doctrines
 of our religious Society is a good and holy profession.
 Oh that all would live up to them! then would righteousness indeed cover the earth,
 as the waters cover the sea; and light and life would reign over death and darkness.
 
-In the latter part of the same year (1836),
+[.small-break]
+'''
+
++++[+++In the latter part of the same year (1836),
 he obtained the unity of his Friends to hold meetings in some towns and villages,
 particularly in New Jersey, where no Friends were settled, as Best Wisdom might direct.
-He writes:--
+He writes:--]
+
+[.small-break]
+'''
 
 Being joined by my kind friend Benjamin Cooper, of Newtown, an elder, we visited Newtown,
 Woodbury, Woodstown, Salem, Bridgeton, Port Elizabeth, and from there down to Egg Harbor;
@@ -249,7 +274,8 @@ Being enabled to perform this visit, as I believe, in the love of,
 and I humbly hope in a measure of the life of the gospel of Christ Jesus,
 it brought peace to my own soul, and to the living members of the church.
 
-The memoranda continue:--
+[.offset]
++++[+++The memoranda continue:--]
 
 Having felt drawings in my mind for several years to visit, in gospel love,
 some of the tribes of Indians in the western and north-western parts of this continent;
@@ -271,13 +297,19 @@ May it continue and increase with them, says my soul.
 We had meetings with five tribes of Indians in the western part of New York State,
 as well as many more public meetings, to our great comfort.
 
-Whilst on this journey, Christopher Healy addressed two letters to his wife,
-from which the following extracts are taken:--
+[.small-break]
+'''
+
++++[+++Whilst on this journey, Christopher Healy addressed two letters to his wife,
+from which the following extracts are taken:--]
 
 [.embedded-content-document.letter]
 --
 
-Skeneateles, New York, 20th of Fifth Month, 1838. On leaving Brookfield,
+[.signed-section-context-open]
+Skeneateles, New York, 20th of Fifth Month, 1838.
+
+On leaving Brookfield,
 we were invited to stop at one of their neighbors, who they thought was dying.
 We went in and sat down, and in about half an hour the poor man breathed his last.
 Oh what a solemn time it was!
@@ -327,6 +359,7 @@ Christopher Healy
 [.embedded-content-document.letter]
 --
 
+[.signed-section-context-open]
 Hamburg, 3rd of Sixth Month, 1838.
 
 Sixth-day had a meeting with the Cattaraugus Indians, to good satisfaction:
@@ -369,7 +402,8 @@ Christopher Healy
 
 --
 
-Continuing the diary, Christopher Healy writes:--
+[.offset]
++++[+++Continuing the diary, Christopher Healy writes:--]
 
 We then left our horses at Lockport, and taking passage in the steamboat up Lake Erie,
 came to Toledo; then to Adrian, a settlement of Friends.
@@ -470,6 +504,9 @@ It is then we build on the foundation that the prophets and apostles built on.
 Then shall Christ Jesus be our Rock and sure Foundation,
 against which the gates of hell cannot prevail.
 
-Returning home to his family, he found them all well;
+[.small-break]
+'''
+
++++[+++Returning home to his family, he found them all well;
 and acknowledges that the Good Shepherd who had been with him,
-had also kept and preserved them.
+had also kept and preserved them.]

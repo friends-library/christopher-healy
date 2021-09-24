@@ -13,7 +13,7 @@
 * Returns to America
 * Notice of an Interview with a Young Man in England on the Danger to Friends of Joining with Persons of Other Religious Denominations on Benevolent Associations
 
-Going to Ireland, Christopher Healy visited Belfast, Lisburn, Lurgan, Moyallen, Grange,
++++[+++Going to Ireland, Christopher Healy visited Belfast, Lisburn, Lurgan, Moyallen, Grange,
 Richhill, Dublin, Ballitore, Carlow, Waterford, Youghall, and Cork.
 "`The meeting at Cork,`" he says, "`was a laborious time at the beginning; but,
 through hard labor, way opened and strength increased, until Truth reigned over all.
@@ -22,9 +22,8 @@ who alone can give strength for his work and service.`"
 From thence he went to Clonmel, Limerick, Roscrea, Mountrath, Mountmellick;
 and returning to Dublin, took steamer for Liverpool.
 
-[.offset]
 Extract from a letter written by Mary J. Lecky, dated Second Month, 12th,
-1832, and addressed to Sarah Healy:
+1832, and addressed to Sarah Healy:]
 
 [.embedded-content-document.letter]
 --
@@ -44,25 +43,25 @@ It was sweet to sit under his ministry.
 
 --
 
-After returning from Ireland to England, he held many public meetings,
++++[+++After returning from Ireland to England, he held many public meetings,
 the most of which he records were to good satisfaction.
-He thus alludes to one of them:--
+He thus alludes to one of them:--]
 
 [.small-break]
 '''
 
-"`The doctrines of Truth being opened, an hireling ministry, with the subject of war,
+The doctrines of Truth being opened, an hireling ministry, with the subject of war,
 as being inconsistent with the gospel, and contrary to the command of Jesus,
 was closely spoken to.
 The necessity of taking up the cross of our holy
 Redeemer before we can become his followers,
 was also dwelt upon.
 It being only as we do this, through obedience to the teaching of his grace,
-that we can have our fruit unto holiness, and in the end everlasting life.`"
+that we can have our fruit unto holiness, and in the end everlasting life.
 
 [.offset]
-The following letter from Samuel Reynolds, of Dover,
-was written to Christopher Healy some time in the year 1831:--
++++[+++The following letter from Samuel Reynolds, of Dover,
+was written to Christopher Healy some time in the year 1831:--]
 
 [.embedded-content-document.letter]
 --
@@ -104,7 +103,7 @@ Samuel Reynolds
 
 --
 
-The following letter, received by Christopher Healy about this time, from Joseph Thorp,
++++[+++The following letter, received by Christopher Healy about this time, from Joseph Thorp,
 who had for a time been his companion,
 alludes to his instructive and entertaining conversation,--a
 talent for which our dear friend was remarkable;
@@ -121,7 +120,7 @@ ashamed of their faithful maintenance among men;
 remembering the dear Savior`'s own words:
 "`Whosoever shall be ashamed of me and of my words,
 of him shall the Son of man be ashamed when he shall come in his own glory,
-and in his Father`'s, and of the holy angels.`"
+and in his Father`'s, and of the holy angels.`"]
 
 [.embedded-content-document.letter]
 --
@@ -169,7 +168,7 @@ Joseph Thorp
 
 --
 
-Christopher Healy went to London on Seventh-day, the 12th of Fifth Month, 1832,
++++[+++Christopher Healy went to London on Seventh-day, the 12th of Fifth Month, 1832,
 in time to attend the Yearly Meeting.
 His journal states that up to that time,
 he had travelled thirty-seven hundred and fourteen miles,
@@ -179,7 +178,7 @@ In London he stopped at the house of his friend John Sanderson "`Here,`" he writ
 At Northampton and at Bardfield respectively, he sent letters to her.
 From these the following extracts are taken.
 They set forth some of the exercises which were his portion while on that foreign shore,
-viz:
+viz:]
 
 [.embedded-content-document.letter]
 --
@@ -196,7 +195,7 @@ A desire too much prevails to be called by Christ`'s name,
 while they want to eat their own bread and wear their own apparel.
 Such, wherever they are in meetings, make hard work.
 But blessed be the great Name of the good Shepherd,
-He hath abundantly appeared and given the victory May my poor soul be humbled before him.
+He hath abundantly appeared and given the victory. May my poor soul be humbled before him.
 
 [.signed-section-context-open]
 Bardfield, Essex, Fourth Month 4th, 1832.
@@ -247,9 +246,9 @@ May such days be known among us again, if it please Thee, our Holy Helper.
 
 --
 
-The following letter addressed not to Christopher Healy,
++++[+++The following letter addressed not to Christopher Healy,
 but to other persons concerning him,
-gives some insight into the nature of the testimony borne by our friend in England:--
+gives some insight into the nature of the testimony borne by our friend in England:--]
 
 [.embedded-content-document.letter]
 --
@@ -273,13 +272,14 @@ so apostolic and so truly consonant with the practice and usage of our early Fri
 that I cannot but admire them,
 as well as delight in the hope that they are in the way of being revived amongst us,
 the nation through.
+
 Perhaps there may be many, who with you do not admire,
-nor hardly know how to bear his plain dealing with us on the subject, but `'tis,
+nor hardly know how to bear his plain dealing with us on the subject, but it is,
 I verily believe, in the way of his gift;
 which I find is exercised among Friends in a conversational, not a ministerial way,
 out of meetings.
 And does not the precious feeling of life and power frequently, yea for the most part,
-accompany these his communications.
+accompany these his communications?
 My impression is that it does, at least wherever I have been in his company,
 which has been as much as six or seven times, or more, both in and out of meetings.
 Fast days, the holding the office of special constable,
@@ -293,7 +293,7 @@ or even that we have erred in our own--for the deceiver,
 as some of us know by long and very dear-bought experience,
 hath many ways of transforming himself--even under the most upright intentions,
 and in the truest sincerity of desire,
-to be dedicated to the service of Him whom to know (from the deceit) is life eternal.`'
+to be dedicated to the service of Him whom to know (from the deceit) is life eternal.
 
 Therefore, methinks,
 that all this very plain dealing of our beloved and honored friend and elder
@@ -312,18 +312,18 @@ Your affectionate friend,
 [.signed-section-signature]
 J+++.+++ W.
 
-[.signed-section-context-open]
+[.signed-section-context-close]
 Third Month, 1832.
 
-Alexander Dirkin related that when he was in England,
+--
+
++++[+++Alexander Dirkin related that when he was in England,
 and conversing with the late John Barclay about Christopher Healy, John remarked,
 "`that Christopher was the right kind of a man to come there on a religious visit,
 for he was not afraid to challenge a Peter or a Paul, and to say, "`Thou art the man.`"
 
---
-
 The following are extracts from letters which were addressed to Christopher Healy,
-before he left England, according to their respective dates:--
+before he left England, according to their respective dates:--]
 
 [.embedded-content-document.letter]
 --
@@ -340,7 +340,7 @@ so must bid thee farewell in the love of the gospel, and am with dear love to th
 and thy companion, thy affectionate friend,
 
 [.signed-section-signature]
-Thos. Christy Wakefield
+Thomas Christy Wakefield
 
 --
 
@@ -385,7 +385,7 @@ Jacob Green
 
 --
 
-Several letters are preserved among Christopher Healy`'s papers, from different Friends,
++++[+++Several letters are preserved among Christopher Healy`'s papers, from different Friends,
 expressive of their interest in his labors in Great Britain,
 and of unity with the plain dealing he was drawn into during his visit among them.
 At a Monthly Meeting where he was present,
@@ -419,7 +419,7 @@ interview were the first thing that had opened his eyes,
 and led to a change in his views.
 
 [.offset]
-Diary resumed:
+Diary resumed:]
 
 First-day morning, Fifth Month, 13th.--Attended Grace-Church Street meeting.
 Afternoon, that of Devonshire house.
@@ -504,10 +504,13 @@ But of ourselves we can do nothing.
 May we, under an humbling sense thereof, look to Him who created the winds and the seas,
 and rules them at his pleasure.
 
-Our dear friend finally reached his home on the 21st of Seventh Month, 1832,
+[.small-break]
+'''
+
++++[+++Our dear friend finally reached his home on the 21st of Seventh Month, 1832,
 and found his wife and family well, "`which,`" as he records,
 "`was cause of humble thankfulness of soul before the Lord,
 who had been pleased to put forth, to go before, and to bring again in peace.
 Taking a retrospective view of my late visit, I feel great peace of mind;
 though mourning and lamentation were my portion very
-often while travelling in those foreign lands.`"
+often while travelling in those foreign lands.`"]

@@ -8,11 +8,14 @@
 * The Separation in the Society of Friends Caused by Doctrines Promulgated by Elias Hicks, and Others
 * Attends New York Yearly Meeting in 1828
 
-The journal of Christopher Healy next proceeds to
++++[+++The journal of Christopher Healy next proceeds to
 portray that disaffection and lapse in religious belief,
 which in the eventful year of 1827,
 culminated in the separation of so large a number from our religious Society.
-Christopher Healy, in his journal, says:--
+Christopher Healy, in his journal, says:--]
+
+[.small-break]
+'''
 
 About these days (1824) there was much appearance of unsoundness among our members.
 Elias Hicks had made some visits among us, to the grief of many,
@@ -37,7 +40,10 @@ of Jerusalem as the Savior of the world,
 and yet profess a great love for us and our young people,
 we could do no other than bear our testimony against.
 
-In 1828, while attending Bridgewater Monthly Meeting, New York,
+[.small-break]
+'''
+
++++[+++In 1828, while attending Bridgewater Monthly Meeting, New York,
 Christopher Healy felt drawn to open and support the
 doctrine of the divinity of our Lord Jesus Christ,
 by authority of the Holy Scriptures,
@@ -90,7 +96,10 @@ After one of which, he could adopt the following language:
 "`In the Lord`'s presence there is life,
 and at his right hand rivers of pleasure forevermore.
 May my poor soul continue to be humbled in the dust before Him.`"
-His own account follows:--
+His own account follows:--]
+
+[.small-break]
+'''
 
 In Virginia I was joined by a kind friend and elder, James Stanton.
 We had a large public meeting at Muffleborough, in a Methodist meetinghouse.
@@ -158,10 +167,13 @@ Oh may my soul always remember how good it is to trust
 in the Lord and never doubt his precious promises,
 that he will never leave nor forsake those that trust in Him!
 
-From letters written to Sarah Healy during her husband`'s absence on this visit,
+[.small-break]
+'''
+
++++[+++From letters written to Sarah Healy during her husband`'s absence on this visit,
 tending to encourage her in her loneliness,
 and conveying their sense of his ministerial services among them,
-we select the following from the pen of Nathan Hunt:--
+we select the following from the pen of Nathan Hunt:--]
 
 [.embedded-content-document.letter]
 --
@@ -192,7 +204,7 @@ and we understand him, being like face answering to face in a glass.
 He is as bone of our bone, and flesh of our flesh; a brother indeed;
 and we will have no other doctrine than that which he preaches.
 
-"`If you, dear heart, feel sometimes lonely and sorrowful,
+If you, dear heart, feel sometimes lonely and sorrowful,
 let this thought cheer your mind,--my dear husband is making many glad;
 and they that go forth weeping and sorrowing, doubtless shall come again rejoicing,
 bringing their sheaves with them.
@@ -258,8 +270,7 @@ be not united.`"
 [.small-break]
 '''
 
-+++[+++Again,
-after a reference to the very trying occurrences
++++[+++Again, after a reference to the very trying occurrences
 in New York Yearly Meeting in the Fifth Month,
 1828, which he attended, he writes:]
 

@@ -12,7 +12,7 @@
 * Letter of Sarah Keese
 * Notice of Religious Engagements in Pennsylvania, New Jersey, and New York
 
-Though Christopher Healy, subsequent to the period now reached,
++++[+++Though Christopher Healy, subsequent to the period now reached,
 was engaged in several more religious visits abroad,
 the one we are about to record is the last, so far as his memoranda show,
 of which he himself has left us any account.
@@ -23,7 +23,10 @@ to rest from his labors in the church militant,
 and to join the church triumphant,
 in the ceaseless anthem of glory and praise to the Lord God, and the Lamb that was slain,
 forever and ever.
-In reference to this visit he writes:--
+In reference to this visit he writes:--]
+
+[.small-break]
+'''
 
 I felt my mind drawn in gospel love,
 to visit Friends and others within the limits of Indiana Yearly Meeting;
@@ -33,20 +36,25 @@ and on the 6th day of Fifth Month, 1842,
 left home in company with my friend John S. Comfort.
 On the 17th of the same month we got to Benjamin Ladd`'s, in Smithfield, Ohio.
 
-Christopher Healy and companion, proceeded to Canada,
+[.small-break]
+'''
+
++++[+++Christopher Healy and companion, proceeded to Canada,
 and visited the settlements of Friends there.
 Of a meeting at Norwich he says: "`Next day, which was First-day attended meeting there;
 others being informed, it was a very large meeting, and to good satisfaction;
-many were comforted, and my own soul rejoiced,`" The diary adds:--
-
-On First-day we had an appointed meeting at Adrian, Michigan, in a Baptist meetinghouse.
+many were comforted, and my own soul rejoiced,`" The diary adds:
+"`On First-day we had an appointed meeting at Adrian, Michigan, in a Baptist meetinghouse.
 Many people attended, and a number of Friends came also.
 A precious meeting it proved, and some expressed their comfort with thankfulness of heart.
-May the praise be given to Him to whom it is due.
+May the praise be given to Him to whom it is due.`"
 
 At Adrian they were joined by their friend Joseph Gibbons,
 of whom mention is made in the following letter from Christopher to his wife,
-written at this place:--
+written at this place:--]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Adrian, State of Michigan, 13th of Sixth Month, 1842.
@@ -64,7 +72,6 @@ That night lodged at Benjamin Hoyle`'s, where Joseph Edgerton spent the evening 
 to our comfort.
 Next morning Benjamin accompanied us seven miles to the turnpike.
 That night got to Zanesville, on the Muskingum river, and were kindly entertained at
-
 J+++.+++ D.`'s. Fourth-day got to Robert Comfort`'s,
 distant from Benjamin Hoyle`'s a hundred and four miles.
 Fifth-day, rode to Alum Creek Monthly meeting, where we met with Jacob Healy,
@@ -74,6 +81,7 @@ Robert Comfort went with us to Alum Creek, on horseback,
 though in his seventy-ninth or eightieth year; the distance being about eighteen miles.
 Sixth-day; returned to Robert Comfort`'s, and had a public meeting at Owl Creek,
 at three o`'clock in the afternoon.
+
 Next morning, with Jacob Healy for our guide, we got to my brother Joseph`'s, at Greenwich.
 They were exceedingly glad to see us.
 First-day, had a large and crowded meeting at that place.
@@ -88,9 +96,14 @@ but convenient seats being put up at the door,
 the meeting was a remarkably quiet and instructive season to many minds.
 Many came from the village of Mount Gilead.
 
-(After stopping at a few more places, and visiting some meetings,
+--
+
++++[+++After stopping at a few more places, and visiting some meetings,
 they at length reached Adrian; and were kindly received by Joseph Gibbons.
-The letter continues):--
+The letter continues:--]
+
+[.embedded-content-document.letter]
+--
 
 Since we have got to Adrian, our dear friend Joseph Gibbons, who was once at our house,
 has concluded to go with us among the Indians.
@@ -125,12 +138,17 @@ Taking my leave, I bid you farewell in the truth; and remain your loving husband
 [.signed-section-signature]
 Christopher Healy
 
-He attended and appointed a number of meetings on the way, till they came to Chicago,
+--
+
++++[+++He attended and appointed a number of meetings on the way, till they came to Chicago,
 the 22nd of Sixth Month.
 Pursuing a northwesterly course from here,
 they at length got to their friend Andrew Schofield`'s, ninety miles from Chicago.
 They left their horses at this Friend`'s, he kindly joining them and taking his.
-The journal proceeds:--
+The journal proceeds:--]
+
+[.small-break]
+'''
 
 We are now four in company--cheerful travellers in this good cause.
 Arriving at Brothertown, the first Indian settlement, on Fourth-day the 29th,
@@ -145,7 +163,10 @@ Here we had a meeting on Seventh-day.
 Nearly all the tribe were present; and a tendering time it proved,
 to the rejoicing of many of their hearts.`"
 
-The diary of Christopher Healy next gives a short
+[.small-break]
+'''
+
++++[+++The diary of Christopher Healy next gives a short
 account of their visit to an old Indian woman,
 named Gracey Tocus,
 as follows:--"`First-Day had a meeting at an
@@ -157,8 +178,11 @@ I trust it will not soon be forgotten by us.`"
 This religious opportunity is spoken of by Christopher Healy '`s companion,
 John S. Comfort, in a journal kept by him, and in a letter of Joseph Gibbons.
 
-The journal of John S. Comfort thus introduces it:--
+[.offset]
+The journal of John S. Comfort thus introduces it:--]
 
+[quote]
+____
 Fifth-day, Sixth Month 30th, 1842.
 After a walk of about a mile from our place of tarriance,
 upon returning we found a woman seventy-four years of age, whose name was Hannah Dick.
@@ -166,9 +190,9 @@ She remembered Christopher when he visited their tribe in New York State,
 before they emigrated here.
 She appeared like a thoughtful, well-meaning woman.
 In allusion to a paralysis which had affected her speech, she said,
-placing her hand on her heart, '`I have lost nothing here.
+placing her hand on her heart, "`I have lost nothing here.
 I feel concerned for myself, and my conduct; for my children,
-and the whole human family.`'`"
+and the whole human family.`"
 
 On our way here Christopher had spoken of an Indian
 woman of this tribe that expressed a few words,
@@ -179,7 +203,7 @@ He had frequently wondered whether she was living,
 and whether he should ever meet with her again.
 Querying of this Hannah Dick in reference to the circumstance,
 she could not remember anything about it;
-and thought it must be herself But Christopher did not find in
+and thought it must be herself. But Christopher did not find in
 this woman what he expected in the one alluded to.
 Here the matter rested,
 till after a meeting held for the Indians wherein our friend
@@ -189,16 +213,18 @@ Upon arriving at her house,
 we found her to be the very one after whom Christopher`'s inquiries had been.
 Her name was Gracey Tocus.
 She knew Christopher, and seemed rejoiced to see him, exclaiming,
-'`Is it true that my eyes once more see my old friend? I remember when you told me,
+"`Is it true that my eyes once more see my old friend? I remember when you told me,
 away off yonder at Brothertown, that you thought of coming here;
 and I have been looking for you many times: and when I have thought of it,
 and you did not come,
-I concluded you had been called home.`' There were some
+I concluded you had been called home.`"
+
+There were some
 now with us who had not been at our previous meeting,
-and several that had, having borne us company, Christopher`'s certificate being read,
+and several that had, having borne us company. Christopher`'s certificate being read,
 we all dropped into silence; when he had considerable to say very encouragingly.
 After which Gracey Tocus stood up, and in a truly feeling manner said:
-'`I believe it will be right for me to say a few words, not that I think myself anything;
+"`I believe it will be right for me to say a few words, not that I think myself anything;
 I am a poor worm of the dust, not worthy to open my mouth before the Lord`'s servants;
 and I feel it a great cross to appear in this way, but I feel it my duty to say,
 that through the mercy of the Lord,
@@ -220,9 +246,14 @@ And although I am a poor unworthy creature,
 and it is a great cross for me to speak before the Lord`'s servants,
 and before the others that are present;
 yet my heart rejoices with joy unspeakable and full of glory,
-and I feel to encourage all, and bless the Lord for this opportunity.`'`"
+and I feel to encourage all, and bless the Lord for this opportunity.`"
+____
 
-Christopher, in a letter to his wife, describes this opportunity:--
+[.offset]
++++[+++Christopher, in a letter to his wife, describes this opportunity:--]
+
+[.embedded-content-document.letter]
+--
 
 We arrived among the Indians on Fourth-day afternoon; went first to an Indian`'s house,
 who kept a tavern, and put up with him.
@@ -276,8 +307,14 @@ Oh may it be as the dew that lies long on the tender grass,
 causing the plant of the Father`'s right hand planting to grow
 and bring forth fruit to his own glory and praise.
 
-The following are extracts from the letter of Joseph Gibbons to Sarah Healy,
-to which allusion has been made:--
+--
+
+[.offset]
++++[+++The following are extracts from the letter of Joseph Gibbons to Sarah Healy,
+to which allusion has been made:--]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Stockbridge, Wisconsin Territory,
@@ -305,7 +342,7 @@ and Christopher has for the most part seemed to feel very comfortable,
 and to press forward with good courage, believing himself to be in his proper allotment.
 In the second place, we have found the roads altogether better than we expected;
 so that we could come comfortably all the way in a carriage;
-while even the distance was not quite so great as was anticipated Now, also,
+while even the distance was not quite so great as was anticipated. Now, also,
 that we are really among the Indians, we find them living very much like ourselves;
 dressing like ourselves; speaking like ourselves; and almost looking like ourselves;
 and we have hardly found more comfortable fare as to eating, drinking,
@@ -317,7 +354,8 @@ For although he has only as yet had one public meeting,
 yet in several family opportunities we have been made truly glad;
 so that we might perhaps adopt the language,
 repeated by a poor Indian woman in a family sitting the day before yesterday, viz:
-'`My heart rejoices with joy unspeakable and full of glory.`'
+"`My heart rejoices with joy unspeakable and full of glory.`"
+
 But before I say much more in relation to our visit here,
 let me return a little and trace our progress since the date of
 Christopher`'s letter to you at Andrew Schofield`'s. A meeting was
@@ -354,6 +392,7 @@ Christopher had a sweet flow of tender counsel and encouragement for them,
 and after he closed, and we had sat some time in silence, Grace rose,
 and in a very weighty, solemn manner, spoke nearly as follows:
 +++[+++His version of the communication is omitted, being very similar to that already given.]
+
 I do not remember ever to have felt more sympathy, or nearer unity of feeling,
 or evidence of divine favor, towards any collection of Friends or others in my life,
 than in this poor Indian`'s family.
@@ -394,9 +433,12 @@ and also accept my kind remembrance for yourself and family.
 [.signed-section-signature]
 Joseph Gibbons
 
-We now return to the diary of Christopher Healy:
+--
 
-Had another meeting at their (Indians) usual place of holding them.
+[.offset]
++++[+++We now return to the diary of Christopher Healy:]
+
+Had another meeting at their (Indians`') usual place of holding them.
 The house was full, and all could not get in.
 A very solid and blessed season it proved to us altogether.
 May He who is glorious in holiness, fearful in praises, doing wonders,
@@ -408,20 +450,29 @@ as well as for us.
 These favored seasons caused their hearts to rejoice;
 and many of them expressed it in great thankfulness of soul.
 
-While among the Stockbridge Indians they frequently met, it seems,
-"`with a minister or missionary named Cutting Marsh, who resided there.
+[.small-break]
+'''
+
++++[+++While among the Stockbridge Indians they frequently met, it seems,
+with a minister or missionary named Cutting Marsh, who resided there.
 He was by profession a Presbyterian.
 The following letter from him to Sarah Healy, is not without interest,
 as confirming the acceptableness of our dear friend`'s labors among these far
-distant and sadly oppressed and persecuted children of our western wilds:--
+distant and sadly oppressed and persecuted children of our western wilds:--]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To Mrs. Sarah Healy
 
 [.signed-section-context-open]
 Stockbridge, near Green Bay, Wisconsin Territory, July 5th, 1842
 
 [.salutation]
-To Mrs. Sarah Healy:
+Madam,
 
-Madam:--Your dear aged husband, with three other Friends, came here on the 1st instant,
+Your dear aged husband, with three other Friends, came here on the 1st instant,
 and paid us a Christian visit.
 On the 2nd he preached to the Stockbridge Indians,
 among whom I am laboring as a missionary.
@@ -495,7 +546,9 @@ With great regard for yourself and yours, I subscribe myself your Christian frie
 [.signed-section-signature]
 Cutting Marsh
 
-From the journal of Christopher Healy,
+--
+
++++[+++From the journal of Christopher Healy,
 it appears that they left the Indian settlements on Second-day,
 the fourth of Seventh Month;
 and on the following Fourth-day got to Andrew Schofield`'s again,
@@ -512,9 +565,11 @@ and my soul is rewarded a hundred fold for yielding up to perform this journey.
 May your heart also be made joyful with that of your husband.`"
 
 From the diary of John S. Comfort the following is selected,
-referring to the subject of a part of Christopher Healy`'s more condensed letters:--
+referring to the subject of a part of Christopher Healy`'s more condensed letters:--]
 
-"`Learning there were some Indians that met at Gracey Tocus`' twice a week,
+[quote]
+____
+Learning there were some Indians that met at Gracey Tocus`' twice a week,
 to hold meetings somewhat after the manner of the Society of Friends,
 we made enquiry concerning them;
 and whether they had anyone to act as a regular officiating preacher.
@@ -523,17 +578,20 @@ But if any believe themselves called thereto,
 they thought it right to speak as the Spirit gave utterance.
 We concluded to go and sit with them.
 Christopher had a good deal to say; after which, Gracey Tocus arose and again spoke,
-to the admiration and edification of all present.`"
+to the admiration and edification of all present.
+____
 
-The first part of this communication, though not so lively,
++++[+++The first part of this communication, though not so lively,
 is somewhat similar to the foregoing one.
 We therefore insert only the conclusion of it here,
 more particularly because of its having application to every one of
 us who profess to be followers of the meek and lowly Jesus,
 yet Sovereign and impartial Lord of all.
-It is as follows:--
+It is as follows:--]
 
-"`I wish to ask one favor of you;
+[quote]
+____
+I wish to ask one favor of you;
 that when you return to your friends and brethren at home,
 you would give them my best love,
 in the fellowship of this gospel we have had preached this day;
@@ -542,12 +600,15 @@ prays for their prosperity and advancement in the Truth,
 and that they may be obedient and faithful to their Master,
 in whatsoever He makes known to them, and requires at their hands;
 and that in their seasons of divine favor,
-they would remember this poor despised part of the land.`"
+they would remember this poor despised part of the land.
+____
 
-Another fact of interest is recorded by John S. Comfort,
-which is not mentioned by Christopher Healy:
++++[+++Another fact of interest is recorded by John S. Comfort,
+which is not mentioned by Christopher Healy:]
 
-"`After meeting yesterday, many of the Indians came and shook hands with us;
+[quote]
+____
+After meeting yesterday, many of the Indians came and shook hands with us;
 and among the rest our kind landlord, O. D. Fowler, from Brothertown,
 came to bid us farewell, as he said, for the last time; but he could hardly speak,
 he was so affected.
@@ -557,12 +618,14 @@ we offered and pressed to pay him for our board and horse feed; but he refused,
 and said he knew it cost us a great deal; but we told him we had enough,
 and expected and would rather pay than not; but he refused, and said,
 in a manner that showed that he looked upon all that he had as a gift of heaven:
-'`I know where I get it from,
-and I am not willing to take anything.`' I thought it would have been
+"`I know where I get it from,
+and I am not willing to take anything.`" I thought it would have been
 a lesson to many in more favored circumstances in our Society,
-as it was to me, if they could have heard him.`"
+as it was to me, if they could have heard him.
+____
 
-Christopher Healy, continuing his memoranda, writes:--
+[.offset]
++++[+++Christopher Healy, continuing his memoranda, writes:--]
 
 We were at the Preparative meeting of Ministers and Elders (Salem,
 Iowa,) to a good degree of satisfaction.
@@ -575,10 +638,15 @@ First-day we had a very large meeting, and a memorable season it proved.
 The house would not hold the people; a shed was fitted up on the north side,
 and many sat under it.
 
-This is all that our dear Friend says of the meeting; but his companion, more in detail,
-has recorded the subjoined:--
+[.small-break]
+'''
 
-"`Christopher had a good deal to say, and after sitting down, he got up the second time,
++++[+++This is all that our dear Friend says of the meeting; but his companion, more in detail,
+has recorded the subjoined:--]
+
+[quote]
+____
+Christopher had a good deal to say, and after sitting down, he got up the second time,
 and stated to the meeting our belief in the Scriptures of truth.
 Although there had been nothing in what he had previously said to call it forth,
 or to require any explanation or confirmation of our belief in the Bible; yet it seemed,
@@ -589,12 +657,15 @@ who was pretending to set forth Friends`' principles to a large company; who,
 among other things, affirmed that Friends did not believe the Bible.
 The man and his hearers were at the meeting.
 Christopher, I am persuaded,
-knew nothing of the circumstance of the man`'s disparaging story for several days after.`"
-John S. Comfort adds the following:--"`In the afternoon,
-Joseph Gibbons left us for his own home.
-We have travelled in near unity and fellowship, being of one heart and one mind.`"
+knew nothing of the circumstance of the man`'s disparaging story for several days after.
 
-Christopher`'s memoranda resumed:--
+In the afternoon,
+Joseph Gibbons left us for his own home.
+We have travelled in near unity and fellowship, being of one heart and one mind.
+____
+
+[.offset]
++++[+++Christopher`'s memoranda resumed:--]
 
 Second-day, the adjourned Monthly Meeting convened;
 and after several hours of solid deliberation, it concluded to the comfort of many minds.
@@ -610,10 +681,16 @@ The people of the neighborhood were generally gathered together;
 they seemed prepared to hear the doctrines of the blessed Truth.
 May it fasten as a nail in a sure place.
 
-They then held or attended meetings at Pine Creek, Flint, and Bloomington;
+[.small-break]
+'''
+
++++[+++They then held or attended meetings at Pine Creek, Flint, and Bloomington;
 and from there went to the Quarterly Meeting called the Western Branch,
 held the 14th of Eighth Month, 1842. On First-day they were at the same place.
-The diary records:--
+The diary records:--]
+
+[.small-break]
+'''
 
 Here the blessed effects of the sufferings and death of Christ,
 experienced through obedience to His inward appearance in the heart,
@@ -623,7 +700,10 @@ Oh the necessity of receiving with meekness the engrafted Word,
 which is able to save the soul.
 May this ever be the constant concern of our minds.
 
-They next had meetings at Rocky Run, Rush Creek,
+[.small-break]
+'''
+
++++[+++They next had meetings at Rocky Run, Rush Creek,
 and Poplar Grove "`These,`" Christopher Healy writes,
 "`were all largely attended by Friends, and those not of our religious Society;
 and blessed be the name of Israel`'s Shepherd,
@@ -632,7 +712,10 @@ May all praise be given to His ever glorious and holy Name, forever.`"
 He next attended some Quarterly and other meetings,
 respecting which he makes but little or no comment.
 
-The following are extracts from a letter to his wife, which was written near this time:--
+The following are extracts from a letter to his wife, which was written near this time:--]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Bloomfield, Indiana, 14th of Eighth Month, 1842.
@@ -699,8 +782,13 @@ I remain your dear and tender husband,
 [.signed-section-signature]
 Christopher Healy
 
-The annexed letter from Christopher Healy to his wife, or rather extracts from it,
-is the last epistolary communication from his own pen, preserved in these memoranda:--
+--
+
++++[+++The annexed letter from Christopher Healy to his wife, or rather extracts from it,
+is the last epistolary communication from his own pen, preserved in these memoranda:--]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Henry County, Indiana, 15th of Ninth Month, 1842.
@@ -741,7 +829,7 @@ also of our son Mark`'s visit to him,
 with the letters you sent him from Joseph Gibbons and the missionary; which were,
 as he says, highly interesting.
 With regard to this visit I may say, I never had a more encouraging one thus far.
-How the remainder may prove we know not.
+How the remainder may prove we know not,
 but hope that He who first put forth, will continue to go before,
 and to show forth His praise,
 that so fruits may be brought forth by which our Divine Master may be glorified,
@@ -776,14 +864,19 @@ says your husband,
 [.signed-section-signature]
 Christopher Healy
 
-After this Christopher Healy attended meetings at Elm Grove, Carthage, Blue River,
+--
+
++++[+++After this Christopher Healy attended meetings at Elm Grove, Carthage, Blue River,
 Walnut Ridge, Knightstown and a few other places.
 About this time the following epistle from Sarah Keese to Christopher Healy was received.
 It alludes to one she had gotten from him,
 wherein he seemed to have been instrumental in stirring up the pure mind in her; and,
 obeying the injunction to "`comfort them that mourn,`"
 to have soothed and refreshed her drooping spirit.
-The letter is as follows:--
+The letter is as follows:--]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Weston, Ninth Month 10th, 1842.
@@ -849,7 +942,10 @@ Affectionately your friend,
 [.signed-section-signature]
 Sarah Keese
 
-The diary resumed:--
+--
+
+[.offset]
++++[+++The diary resumed:--]
 
 Fourth-day, Ninth Month, 21st, we got to the house of our friend John Poole, at Richmond.
 Here we rested till First-day, when we attended their usual meeting.
@@ -869,7 +965,10 @@ who had called me forth, and brought again in peace.
 May He have all the honor.
 Blessed forever be His holy Name.
 
-This closes Christopher Healy`'s diary of his various labors in the love of the Gospel,
+[.small-break]
+'''
+
++++[+++This closes Christopher Healy`'s diary of his various labors in the love of the Gospel,
 prolonged beyond the time allotted to most.
 
 He returned his certificate in the same month,
@@ -920,4 +1019,4 @@ and to appoint some public meetings in that and Salem Quarter.
 In Ninth Month, 1849, a minute was granted him to visit Friends,
 and those not of our religious profession, in Concord, Cain,
 and Western Quarterly Meetings;
-likewise the meetings composing Nottingham and Little Britain Monthly Meetings.
+likewise the meetings composing Nottingham and Little Britain Monthly Meetings.]
