@@ -7,10 +7,8 @@
 * Visits Friends and Others in the Eastern and Southern Parts of New York, and in Philadelphia Yearly Meeting
 * Incident Related of His Entering a Ball-Room
 
+[.offset]
 +++[+++The diary is resumed:--]
-
-[.small-break]
-'''
 
 The latter part of the Fifth Month of this year (1813),
 I attended our Yearly Meeting at New York.
@@ -522,9 +520,6 @@ we have thought good to present it here.
 It tends to show not only the respect which was paid him by citizens of his neighborhood,
 but also the power of the Spirit,
 which wrought in and through him to the conviction of many minds.]
-
-[.small-break]
-'''
 
 [quote]
 ____
