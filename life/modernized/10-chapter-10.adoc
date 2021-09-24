@@ -6,18 +6,19 @@
 * Letter of Ann Jones
 * Letter of William Evans
 
-Christopher Healy, as his journal states,
++++[+++Christopher Healy, as his journal states,
 having for several years felt his mind drawn to visit in gospel love, Friends,
 with some others not of our Society, in Great Britain and Ireland,
 obtained a certificate of the unity of his Monthly, Quarterly,
 and Yearly Meetings for this service.
-The foil time, as he believed, having arrived, on the 2nd of the Sixth Month, 1831,
-he went on board the ship Algonquin, William West, master,
+The full time, as he believed, having arrived, on the 2nd of the Sixth Month, 1831,
+he went on board the ship __Algonquin,__ William West, master,
 and after taking an affectionate leave of his dear wife
 and numerous friends who accompanied him to the ship,
 he, the same day, sailed from Philadelphia; having for companions,
 bound on a similar errand, Jonathan Taylor of Ohio, and Stephen Grellet, from Burlington,
 New Jersey.
+
 They had several meetings, both morning and evening,
 with opportunities also for reading portions of the Holy Scriptures; the captain,
 who was very kind and courteous to them, sitting with them;
@@ -31,6 +32,7 @@ and I can say my soul felt humbled as in the dust for the blessing
 and favor of Heaven in bringing us safely over the mighty deep.`"
 "`He that made the heavens and the earth,`" he continues, "`the sea,
 and the fountains of waters, can control them at His pleasure.`"
+
 They visited a number of Friends`' families in and about Liverpool,
 with some of the sick and the aged.
 On First-day morning they also together attended the same meeting,
@@ -86,7 +88,7 @@ Next day, Christopher Healy attended the general Quarterly Meeting, which was la
 He was silent; but Sarah (Lynes) Grubb was largely engaged in the ministry;
 as was Thomas Shillitoe.
 
-About this time he wrote to his wife; from which the following is extracted:--
+About this time he wrote to his wife; from which the following is extracted:--]
 
 [.embedded-content-document.letter]
 --
@@ -112,8 +114,8 @@ the testimony of the apostle was presented to my mind:
 "`There is therefore now no condemnation to them which are in Christ Jesus,
 who walk not after the flesh but after the Spirit.
 For the law of the spirit of life in Christ Jesus has
-made me free from the law of sin and death;
-"`on which important subject my mind was clearly opened to explain to the
+made me free from the law of sin and death;`"
+on which important subject my mind was clearly opened to explain to the
 people the necessity of attending to this law of the Spirit of life.
 
 Dear Thomas Shillitoe says he remembers you perfectly well,
@@ -135,9 +137,13 @@ and remains to be the everlasting Rock against which no storm nor tempest can pr
 My heart is full of gospel love while I am writing to you, my dear companion,
 believing you can read and understand the feelings of my heart.
 
-[.offset]
+--
+
 +++[+++After the expression of tender regard and counsel for his dear children,
 whom he respectively named, he thus concludes:]
+
+[.embedded-content-document.letter]
+--
 
 Give my dear love to father and mother, and all our dear friends.
 May they be favored to know the sweet presence of the
@@ -150,7 +156,7 @@ Christopher Healy
 
 --
 
-At Uxbridge he attended a meeting of Friends;
++++[+++At Uxbridge he attended a meeting of Friends;
 which he writes was "`a trying time;`" and then adds,
 "`as it has often been with me since being in this land.
 I often go mourning on my way.
@@ -161,7 +167,10 @@ and that it was to the edification of the people.`"
 At the house of his kind friend John Smith, of Thirsk,
 he was taken dangerously ill of bilious colic.
 By this he was confined three weeks.
-He thus alludes to the kind care of this family towards him:--
+He thus alludes to the kind care of this family towards him:--]
+
+[.small-break]
+'''
 
 It could not be possible for more care and sympathy to
 have been bestowed than was by these kind friends,
@@ -176,9 +185,12 @@ He came to England in the same ship that I did; and for the loss of him I did tr
 Yet from the account I had of his departure,
 I have no doubt but that he made a happy close.
 
-The following letter from his friend Ann Jones, alludes to this illness,
+[.small-break]
+'''
+
++++[+++The following letter from his friend Ann Jones, alludes to this illness,
 and also to the death of Jonathan Taylor;
-and on other accounts is well worthy an attentive perusal:--
+and on other accounts is well worthy an attentive perusal:--]
 
 [.embedded-content-document.letter]
 --
@@ -195,17 +207,17 @@ that I have not sooner given you a written proof of my remembrance,
 but for lack of health and ability for the employ.
 My mind has followed you and our other transatlantic brethren,
 with feelings of more than common interest:
-and that not only as one who knows '`the heart of a stranger`' in a land of strangers,
+and that not only as one who knows "`the heart of a stranger`" in a land of strangers,
 but also as one who knows a little of the bonds and afflictions which
 abide those who go forth as advocates of the doctrine of the cross,
 and of the gospel of Christ Jesus our Lord, in a day, when, because iniquity abounds,
 the love of many waxes cold.
 I think the apostle says,
-'`we count them happy which endure`' and blessed indeed are they who endure to the end:
+"`we count them happy which endure`" and blessed indeed are they who endure to the end:
 who strive through the faith of the gospel to persevere in patience
 in the path of duty till He who has called to the service,
 and apportions to each his share or measure of suffering and of labor,
-shall see meet to say, '`It is enough.`'
+shall see meet to say, "`It is enough.`"
 
 I heard some days ago of your serious indisposition at Thirsk:
 but having no direct or very recent account,
@@ -237,7 +249,7 @@ I do not forget that He whom we desire to serve,
 is all-sufficient to carry His servants through
 all the perils and difficulties they meet with,
 in the discharge of their duty to Him:
-but '`wisdom dwells with prudence,`' and it is requisite for us to try whether
+but "`wisdom dwells with prudence,`" and it is requisite for us to try whether
 we may not safely keep on the side of (shall I say) human prudence,
 where two ways are before us.
 You will perceive I only propose;
@@ -275,13 +287,13 @@ he expressed that he felt resigned.
 Dr. Harvey went from Dublin on the first instant to see him:
 bled him which afforded some relief,
 but the doctor found him too weak to bear the
-depletion necessary`' to remove the inflammation:
+depletion necessary to remove the inflammation:
 continued gradually sinking, and was frequently heard supplicating to be released.
 On First-day the 6th of Eleventh Month, this dear disciple fell asleep in Jesus,
 on whom he firmly believed; and for whose Name`'s sake he had patiently suffered.
 This will be a heavy stroke to his wife and daughter.
 And while we mourn their and the church`'s loss, are bound to unite in the language,
-'`Blessed are the dead which die in the Lord,`' etc.
+"`Blessed are the dead which die in the Lord,`" etc.
 
 I have written more than I expected when I began; and am reminded it is time to close.
 My husband is well.
@@ -295,8 +307,8 @@ Ann Jones
 
 --
 
-The following are extracts from a letter of our late beloved friend William Evans,
-to Christopher Healy while in England:
++++[+++The following are extracts from a letter of our late beloved friend William Evans,
+to Christopher Healy while in England:]
 
 [.embedded-content-document.letter]
 --

@@ -223,10 +223,13 @@ May the praise be given to the Lord who was evidently near this evening,
 and whose presence alone makes good meetings.
 Blessed be his holy name forever.
 
-After this he had or attended meetings at Newport, Portsmouth, Tivertown,
+[.small-break]
+'''
+
++++[+++After this he had or attended meetings at Newport, Portsmouth, Tivertown,
 Conanicut Island, Boston Neck, Tower Hill, Hopkinton, Providence, Bristol, Greenwich,
 Wickford, North Kingston, Cranston, Swansea, and at Warwick.
-The last meeting, he writes, "`was a precious one,
+"`The last meeting,`" he writes, "`was a precious one,
 wherein the people were shown that the travels of the children of Israel of old,
 were a type of the Christian travel towards the heavenly Jerusalem, the holy Mount Zion,
 the city of the living God, whose walls are salvation, and whose gates are praise.`"
@@ -243,7 +246,7 @@ While on this religious errand, the following letters were written.
 They show the esteem, in some wise, which Friends there had for him,
 with their appreciation of his gospel labors.
 They are thus endorsed by Christopher Healy:--
-"`Some letters received by my wife while I was in Rhode Island.`"
+"`Some letters received by my wife while I was in Rhode Island.`"]
 
 [.embedded-content-document.letter]
 --
@@ -368,7 +371,7 @@ Lydia Weeks
 
 --
 
-At the next Monthly Meeting succeeding his return from this journey,
++++[+++At the next Monthly Meeting succeeding his return from this journey,
 he again laid before it an exercise which had for some time attended his mind,
 to make a religious visit to Friends and others within
 the compass of Easton and Ferrisburg Quarterly Meetings.
@@ -422,7 +425,10 @@ that he first heard of his dear wife`'s illness; and very soon after of her deat
 with that also of his mother-in-law.
 How true is the language of the poet:--"`Woes cluster: rare are solitary woes.`"
 This seemed to be an unexpected and very heavy stroke to him.
-He says:
+He says:]
+
+[.small-break]
+'''
 
 I was weighed down with trouble.
 Think, dear reader, of the bitterness of my spirit on my own,
@@ -437,7 +443,10 @@ and I dare not think that I had done wrong in leaving them.
 Thus I tried to resign all to His blessed will, and to renew my covenant with Him,
 promising the great Lord of all, the remainder of my days.
 
-He returned to his lonely home on Fifth-day, the 11th of Third Month, 1813,
+[.small-break]
+'''
+
++++[+++He returned to his lonely home on Fifth-day, the 11th of Third Month, 1813,
 having been absent about two months, attended seventy-three meetings,
 and travelled more than a thousand miles.
 
@@ -448,7 +457,11 @@ and greatly desired her husband`'s and their welfare.
 The last words she was heard to utter were:
 "`Come, and let us go to the house of the Lord.`"
 
-His journal further states, that--
+[.offset]
+His journal further states, that--]
+
+[.small-break]
+'''
 
 Through the blessing of the great Caretaker,
 who opened the hearts of sympathizing friends,
@@ -469,12 +482,15 @@ fellowship that enables to drink into one cup.
 Behold how good and how pleasant it is!
 May the Great Shepherd guard and keep us thus united together in the ever blessed truth.
 
-During Christopher Healy`'s absence from home on this visit,
+[.small-break]
+'''
+
++++[+++During Christopher Healy`'s absence from home on this visit,
 divers letters of encouragement and sympathy were written either to his wife,
 or to himself, near the time of, and after her decease.
 From these we select the following.
 To the former, dated Charlotte, 2nd Mo. 10th, 1818,
-there is this endorsement by Christopher Healy "`A letter from Mary Varney to my wife.`"
+there is this endorsement by Christopher Healy "`A letter from Mary Varney to my wife.`"]
 
 [.embedded-content-document.letter]
 --
@@ -514,9 +530,9 @@ Mary Varney
 
 --
 
-The next letter, addressed to Christopher Healy,
++++[+++The next letter, addressed to Christopher Healy,
 seems almost prophetical of that forthcoming chastening,
-which suddenly and forever severed his dear companion from him.--
+which suddenly and forever severed his dear companion from him.--]
 
 [.embedded-content-document.letter]
 --
@@ -568,8 +584,8 @@ Mary Varney
 
 --
 
-The following, from the same,
-holds out the cordial of tender sympathy to his bereaved and afflicted mind.--
++++[+++The following, from the same,
+holds out the cordial of tender sympathy to his bereaved and afflicted mind.--]
 
 [.embedded-content-document.letter]
 --
@@ -607,7 +623,7 @@ Mary Varney
 
 --
 
-John Wilbur also thus writes to him on this sorrow stirring occasion:--
++++[+++John Wilbur also thus writes to him on this sorrow stirring occasion:--]
 
 [.embedded-content-document.letter]
 --

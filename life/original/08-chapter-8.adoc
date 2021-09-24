@@ -15,7 +15,7 @@
 * Letter to His Wife
 * Remarks after Holding Meetings with Indians
 
-On the 12th of Tenth Month, 1814, Christopher Healy was married to Sarah Miller,
++++[+++On the 12th of Tenth Month, 1814, Christopher Healy was married to Sarah Miller,
 daughter of John and Sarah Miller, of Bucks County, Pennsylvania.
 She being one that he believed would make him a helpmate in the Truth.
 
@@ -35,7 +35,8 @@ May I never move without thy anointing being renewed upon my spirit.
 So shall I be enabled, through Thy power, to teach transgressors thy ways,
 that sinners may be converted unto Thee.`"
 
-After this, again resuming the diary, he says:--
+[.offset]
+After this, again resuming the diary, he says:--]
 
 I was at Durham meeting, which was very large; many not of our Society being at it.
 My mind was deeply humbled before the living God;
@@ -60,7 +61,10 @@ May we, though far separated from each other, yet be sweetly united in thy Holy 
 and at all times give Thee the honor and the glory,
 who can and will make hard things easy, and bitter things sweet.
 
-This journey throughout appears to have been to
+[.small-break]
+'''
+
++++[+++This journey throughout appears to have been to
 the satisfaction of Friends where he travelled,
 and to his own peace.
 One little extract from the record he has left of it, shows who was his sufficiency;
@@ -68,7 +72,8 @@ and where and how his strength was sought and found, viz: "`Oh, dearest Lord,
 keep me sufficiently humbled under a sense of my own inability
 to do any thing that will advance Thy glorious cause!`"
 
-Upon reaching home,--we quote again from the journal:--
+[.offset]
+Upon reaching home,--we quote again from the journal:--]
 
 My dear wife and family received me with joyful hearts.
 We felt thankful to the great Preserver of men, that he had not only led forth,
@@ -88,7 +93,10 @@ May it be sanctified to the dear youth.
 The meeting ended well.
 We found our relations well, and returned home in about seven weeks.
 
-Christopher Healy did not at any time long rest from religious service abroad.
+[.small-break]
+'''
+
++++[+++Christopher Healy did not at any time long rest from religious service abroad.
 In the Sixth Mouth of the year now reached (1816),
 not feeling his mind clear of the New England States, he again went forth,
 and held some meetings in Connecticut, Massachusetts, and Rhode Island,
@@ -116,7 +124,10 @@ After getting home, he thus records his gratitude:
 who hath brought me again to my precious family in peace.
 My soul is humbled under a consideration of these favors.`"
 And shortly after, his pen thus dwells upon the Lord`'s mercies,
-and sets forth his praise:--
+and sets forth his praise:--]
+
+[.small-break]
+'''
 
 What shall I render, O Lord,
 unto Thee for all thy benefits? Thou that redeems from destruction!
@@ -128,7 +139,10 @@ Thy will be done in my heart, as it is done in Heaven.
 So shall my poor soul praise Thee, who alone art worthy.
 Amen.
 
-Feeling his mind again drawn in gospel love to visit
+[.small-break]
+'''
+
++++[+++Feeling his mind again drawn in gospel love to visit
 some parts of the Southern and Western States,
 he left home therefor, with the unity and sympathy of his Friends,
 on the 19th of Eleventh Month, 1818, accompanied by his friend and former companion,
@@ -142,7 +156,10 @@ In this city he attended the Monthly Meeting for the Eastern District, which, he
 was "`to some satisfaction.`"
 The Western District "`somewhat trying.`"
 A public meeting being appointed in the evening, it was large.
-He says,--
+He says,--]
+
+[.small-break]
+'''
 
 I went to it under great poverty of spirit.
 After a time of reverential silence, feeling the power of supplication poured forth,
@@ -160,7 +177,8 @@ She was patiently waiting and quietly hoping;
 and it was evident she was borne up of Him who is everlasting strength.
 May the Lord continue to be her support to the end.
 
-Passing into Ohio, under date of the 5th of First Month, 1819, he thus writes:--
+[.offset]
++++[+++Passing into Ohio, under date of the 5th of First Month, 1819, he thus writes:--]
 
 Was at Flushing; a crowded meeting.
 The doctrine of the peaceable kingdom of the Messiah was held up to view,
@@ -171,7 +189,10 @@ Had hard labor, but was favored to relieve my mind.
 Oh the love of money! which, while men covet after, they err from the faith,
 and pierce themselves, and those that are concerned for their welfare, with many sorrows.
 
-At Waynesville, Springborough, Lebanon Courthouse, he held meetings;
+[.small-break]
+'''
+
++++[+++At Waynesville, Springborough, Lebanon Courthouse, he held meetings;
 and in the evening one at the same place, for the Methodists.
 These, he writes, were large and favored.
 "`The minds of the people were opened to receive the truth,
@@ -207,7 +228,10 @@ From here, on their way home, he attended some meetings;
 and being at the house of one of his friends,
 he was informed that there were four men in Goshen jail,
 about twenty miles from where he was, under sentence of death; having committed murder.
-His memoranda thus gives the affecting relation:--
+His memoranda thus gives the affecting relation:--]
+
+[.small-break]
+'''
 
 Feeling my mind drawn to make them a visit, in company with two of my friends, I went.
 The jailor seemed kind, and was willing we should make the poor criminals a visit.
@@ -229,7 +253,10 @@ pity would be enabled to obtain forgiveness.
 I thought this sad scene was as great a sermon as ever I heard.
 Oh may these lines prove a warning to those that read them.
 
-On Fifth-day, the 18th of Third Month, 1819,
+[.small-break]
+'''
+
++++[+++On Fifth-day, the 18th of Third Month, 1819,
 they reached home with thankful hearts to the Preserver of mankind.
 He adds, "`Blessed be his holy Name forever.`"
 
@@ -242,7 +269,10 @@ he visited the meetings in the western part of the State of New York.
 Was absent from home about three weeks,
 and returned with the incomes of his Master`'s approbation.
 This year (1820), he removed with his family to Bucks county, Pennsylvania.
-He thus alludes to it in his journal, which is, for a time, resumed:--
+He thus alludes to it in his journal, which is, for a time, resumed:--]
+
+[.small-break]
+'''
 
 Having for some time believed it would be right to remove with my family to Bucks county,
 and having settled my outward concerns, and my children being willing to part with us,
@@ -267,7 +297,8 @@ We appointed some meetings on the way, which we attended to satisfaction.
 Getting to New England Yearly Meeting, held in the Sixth Month,
 we met with our dear friend George Withy, from old England.
 
-After this, upon coming to Nantucket, he says:--
+[.offset]
++++[+++After this, upon coming to Nantucket, he says:--]
 
 We had some very large meetings on this island;
 the inhabitants seeming ready at the notice given.
@@ -285,7 +316,10 @@ faith of our Lord Jesus Christ.--After our visit on Long Island,
 we returned to New York.
 Hence by Shrewsbury and Rahway, on home; and found my dear wife and family well.
 
-His journal continues: "`Stayed at and about home, visiting meetings,
+[.small-break]
+'''
+
++++[+++His journal continues: "`Stayed at and about home, visiting meetings,
 and attending to such concerns as Truth required of me, until in the Twelfth Month, 1823,
 having previously opened a concern to perform a visit, in gospel love,
 to Friends and those not in membership with us, to some parts of New York State,
@@ -293,7 +327,8 @@ and Upper Canada, I set out with my brother-in-law, John Miller, Jr., as compani
 We went by New York, up the North river,
 and had many favored meetings with Friends and others.`"
 
-While out on this visit, he thus wrote to his wife:--
+[.offset]
+While out on this visit, he thus wrote to his wife:--]
 
 [.embedded-content-document.letter]
 --
@@ -340,7 +375,7 @@ Christopher Healy
 
 --
 
-Wishing to get to the Half-Year`'s Meeting in Upper Canada,
++++[+++Wishing to get to the Half-Year`'s Meeting in Upper Canada,
 they crossed the river St. Lawrence.
 This was attended with much difficulty;
 owing to the ice on the river being too thin to bear their horses,
@@ -351,7 +386,10 @@ Preserver of men for His merciful help and protection.
 Before parting with the ferryman and his helpers (a large
 number having assisted in getting them over the river),
 they asked for the fare across.
-The ferryman said:
+The ferryman said:]
+
+[.small-break]
+'''
 
 "`I consider we have risked our lives for the
 sake of helping you on in the line of your duty,
@@ -387,7 +425,7 @@ After feeling my mind clear of Upper Canada,
 we crossed the Niagara river a little below Buffalo, and came into the United States.
 After which, we had a meeting with the Buffalo Indians.
 This tribe is a part of the Six Nations.
-Red Jacket and Cornphinter, with another Indian chief,
+Red Jacket and Cornplanter, with another Indian chief,
 and a large collection of other Indians, both male and female, came to this meeting.
 They sat remarkably solid; much becoming such an occasion.
 I spoke by an interpreter that Red Jacket brought with him.

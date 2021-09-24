@@ -7,7 +7,10 @@
 * Visits Friends and Others in the Eastern and Southern Parts of New York, and in Philadelphia Yearly Meeting
 * Incident Related of His Entering a Ball-Room
 
-The diary is resumed:--
++++[+++The diary is resumed:--]
+
+[.small-break]
+'''
 
 The latter part of the Fifth Month of this year (1813),
 I attended our Yearly Meeting at New York.
@@ -76,7 +79,10 @@ Here I parted with my dear sister; and a heavy parting it was to us both.
 May she be favored to live in the truth, and to have the company of Him,
 who comforts those that mourn in Zion.
 
-Shortly after this he returned home.
+[.small-break]
+'''
+
++++[+++Shortly after this he returned home.
 In another short visit he writes of being at a meeting at Othniel Phelps`'; who,
 with his wife, had been convinced of Friends`' principles.
 "`May they continue,`" writes Christopher Healy,
@@ -131,7 +137,10 @@ with his companion, Samuel Seaman, passed into Pennsylvania, and attended Stroud
 Easton, Plumstead, and Abington meetings, and from there on Third-day,
 to Thomas Scattergood`'s, in Philadelphia,
 who kindly accompanied them to the three Monthly Meetings in the city.
-The memoranda continue:--
+The memoranda continue:--]
+
+[.small-break]
+'''
 
 These were mostly favored meetings; and Friends of Philadelphia showed us much kindness.
 Sixth-day, accompanied by Thomas Scattergood and Thomas Norton,
@@ -248,7 +257,7 @@ from Burlington, to meet us.
 First-day attended meetings at Burlington, both fore and afternoon;
 where we had the company of our beloved friend Henry Hull.
 General notice being given, the meetings were large,
-and Owned by the Master of our assemblies.
+and owned by the Master of our assemblies.
 Here belong our aged friends, John Hoskins, George Dillwyn, and John Cox.
 In the evening, made three religious visits in the town, namely, at John Hoskins`',
 William Allinson`'s, and Nathaniel Coleman`'s. These were precious seasons;
@@ -271,11 +280,17 @@ Sixth-day at Newtown.
 That evening we crossed the Delaware to Philadelphia: and Seventh-day rested.
 First-day morning was at meeting at the Northern district.
 
-He then attended in succession the Monthly Meetings of Chester, Darby, Goshen, Concord,
+[.small-break]
+'''
+
++++[+++He then attended in succession the Monthly Meetings of Chester, Darby, Goshen, Concord,
 and Wilmington, together with the Almshouse of Chester County,
 during one of the evenings; and on the next, which was Seventh-day,
 he attended the select Quarterly Meeting in Philadelphia.
-Resuming the journal--
+Resuming the journal--]
+
+[.small-break]
+'''
 
 First-day morning, I attended the meeting at Arch Street; wherein I was silent.
 Afternoon, at Pine Street; where I was again silent.
@@ -357,10 +372,16 @@ That evening came to our friend John Miller`'s, who with his family are choice F
 Here I was joined by William Taylor, a dear and truly sympathizing friend and help-mate.
 He has also a precious gift in the ministry, though not so large as some.
 
-After visiting a few more meetings, with some families in and about Bristol,
+[.small-break]
+'''
+
++++[+++After visiting a few more meetings, with some families in and about Bristol,
 and crossing the river into the neighborhood of Burlington, he went to Vincentown,
 where he had a meeting on First-day, the 6th of the month.
-He thus again writes:--
+He thus again writes:--]
+
+[.small-break]
+'''
 
 It was attended mostly by those not of our Society.
 Here we were Sweetly refreshed together.
@@ -419,7 +440,10 @@ This tends to keep the worldly disposition in subjection to the power of Truth;
 whereby if they continue to live in the same, they will be enabled to be good stewards.
 May this consideration have place in the minds of those who have large possessions.
 
-Christopher Healy attended some more meetings,
+[.small-break]
+'''
+
++++[+++Christopher Healy attended some more meetings,
 principally within the limits of the Southern and Western Quarterly Meetings;
 also the almshouse of the State of Delaware,
 a service for which his sympathizing mind with the afflicted,
@@ -428,7 +452,10 @@ He then went to Westtown School, to which he thus alludes:
 "`Had a meeting with the scholars, which was a precious season.
 Oh, the innocent sweetness that was felt among them!`"
 Not long after this he rode to Philadelphia, preparatory to the Yearly Meeting.
-The diary resumed:--
+The diary resumed:--]
+
+[.small-break]
+'''
 
 Seventh-day attended the select Yearly Meeting, which was divinely favored.
 First-day, five meetinghouses were opened for worship.
@@ -445,9 +472,15 @@ He has left a sweet savor behind him, and his memory will be pronounced blessed.
 He has been as a father to me.
 May we that are left behind, follow him as he followed Christ.
 
-Our friend had some religious service on his way, but except this,
+[.small-break]
+'''
+
++++[+++Our friend had some religious service on his way, but except this,
 he proceeded pretty directly from Philadelphia Yearly Meeting to that of New York.
-The memoranda continue:--
+The memoranda continue:--]
+
+[.small-break]
+'''
 
 Seventh-day, the 21st of Fifth Month, attended the Yearly Meeting of Ministers and Elders.
 And on Second-day that for business came on.
@@ -457,12 +490,18 @@ We had the company of William Flanner, from Ohio, Micajah Collins from New Engla
 and many other strangers.
 The meeting concluded on Fifth-day, the 26th.
 
-After the conclusion of the Yearly Meeting, he turned his face homeward;
+[.small-break]
+'''
+
++++[+++After the conclusion of the Yearly Meeting, he turned his face homeward;
 taking some meetings on his way.
 One with the Methodists, which, he writes,
 he had had a prospect of for nearly three years, proved to the relief of his mind.
 He reached home on the 10th of Sixth Month, 1814. To which, in his journal,
-allusion is thus made:--
+allusion is thus made:--]
+
+[.small-break]
+'''
 
 Rode home to my dear friend Benjamin Gurney`'s, where I was kindly received;
 and can say I feel a thankful heart to the Lord, who,
@@ -472,17 +511,25 @@ to the praise of his own eternal Name.
 I was out on this journey six months and ten days;
 attended two hundred and seven meetings, and travelled by computation two thousand miles.
 
-The following circumstance,
+[.small-break]
+'''
+
++++[+++The following circumstance,
 which it is believed took place while he was a resident in the State of New York,
 is not in Christopher Healy`'s journal;
 but its authenticity being substantiated by a Friend who heard it from his own lips,
 we have thought good to present it here.
 It tends to show not only the respect which was paid him by citizens of his neighborhood,
 but also the power of the Spirit,
-which wrought in and through him to the conviction of many minds.
+which wrought in and through him to the conviction of many minds.]
 
-"`We had been speaking,`" says the writer of this,
-"`of the trials and faithfulness of Sarah (Lynes) Grubb, and Christopher remarked,
+[.small-break]
+'''
+
+[quote]
+____
+We had been speaking +++[+++says the writer,]
+of the trials and faithfulness of Sarah (Lynes) Grubb, and Christopher remarked,
 that other Friends were sometimes brought into close trials of faith.
 In confirmation of this, he said he was once travelling on the 4th of the Seventh Month,
 and the time had fully come for feeding his horse.
@@ -498,21 +545,21 @@ at a tavern where a dance was going on.
 It would bring discredit, he thought, on his profession.
 He quickly decided to proceed; and was about mounting his horse,
 when he heard the language,
-You must go into the dance room!`' This he thought was out of the question,
+"`You must go into the dance room!`" This he thought was out of the question,
 and a delusion, and he`'d do no such thing.
 So he rode off slowly, but with a heavy mind.
 Feeling so uncomfortable riding, he dismounted and tried walking; but it was no better;
 the exercise continued.
 Again he heard the voice, and again strove to put it away as a delusion.
-The third time the admonition was '`Perhaps you will never have another
-opportunity to warn these people.`' '`If it comes to that,`' said Christopher,
-'`I must go back.`'
+The third time the admonition was "`Perhaps you will never have another
+opportunity to warn these people.`" "`If it comes to that,`" said Christopher,
+"`I must go back.`"
 
-"`Mounting his horse, he returned to the tavern,
+Mounting his horse, he returned to the tavern,
 put it under the shed to finish the oats, and proceeded into the house.
 The senior of the young men who kept the house, he found in the bar-room,
 and inquired of him if he might go into the dancers`' room? Though doubtless astonished,
-the landlord said, '`You may, Mr. Healy, if you desire it.`' On being requested to do so,
+the landlord said, "`You may, Mr. Healy, if you desire it.`" On being requested to do so,
 he also went with Christopher upstairs and opened the ballroom door.
 
 The floor was occupied by the dancers, and the fiddler was engaged in his vocation,
@@ -520,16 +567,16 @@ when the unexpected appearance of the plain Quaker burst upon their astonished v
 Instantly the tones of the fiddle ceased,
 and the dancers retired to the seats placed around the room.
 The junior landlord came forward instantly, seeing his gain was likely to be disturbed,
-and said, '`Oh, Mr. Healy, you can`'t preach here? '`But,`' said Christopher,
-'`only let me ask the young people a question.
+and said, "`Oh, Mr. Healy, you can`'t preach here?`" "`But,`" said Christopher,
+"`only let me ask the young people a question.
 Would you be willing to get into the quiet a little
-time?`' The company very generally gave assent;
-but the young landlord interposed, and said, '`Any other time, Mr. Healy,
-we shall be glad to hear you, but positively not now.`' '`Well,`' continued our friend,
-'`If you will not allow it, I shall be clear, and must leave it on you.`' He then departed,
+time?`" The company very generally gave assent;
+but the young landlord interposed, and said, "`Any other time, Mr. Healy,
+we shall be glad to hear you, but positively not now.`" "`Well,`" continued our friend,
+"`If you will not allow it, I shall be clear, and must leave it on you.`" He then departed,
 and went with a light and cheerful heart on his road.
 
-"`Some time after, Christopher met with the young landlord,
+Some time after, Christopher met with the young landlord,
 who told him that he had felt very much troubled whenever he
 had thought of having stopped him from speaking to the dancers;
 and desired him to have a meeting appointed in that dance-room,
@@ -538,13 +585,14 @@ The proposal took hold of Christopher`'s mind,
 and after consulting with the select members of his Monthly Meeting,
 he felt easy to appoint a meeting in this large room of the tavern.
 Very special care was taken by the young landlord to
-have all the company of the Fourth present,
-and Christopher added, '`That he never remembered to have had a more satisfactory meeting;
+have all the company of the youth present,
+and Christopher added, that he never remembered to have had a more satisfactory meeting;
 the floor being a good deal wet with the tears
-of his auditors.`' After the meeting was over,
+of his auditors. After the meeting was over,
 the young landlord told Christopher,
 that his object in going into the room at the first was so far accomplished,
 that there was not another sound of the fiddle,
 or a single dance after he went into the room that day;
 but that they all departed to their respective homes as
-though they had been at a Quaker meeting.`"
+though they had been at a Quaker meeting.
+____

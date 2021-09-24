@@ -10,14 +10,17 @@
 * Incident Connected with a Visit of Christopher Healy to the Yearly Meeting of Women Friends in New York
 * Letter of Joseph Edgerton
 
-In the Tenth Month of this year, 1838,
++++[+++In the Tenth Month of this year, 1838,
 Christopher Healy attended the Quarterly Meetings of Abington and Haddonfield;
 and the Yearly Meeting of Baltimore; of which last he notes,
 that owing to unsoundness in the faith and doctrines of
 our Society in some individuals present,
 it was a trying meeting.
 He attended some meetings going and returning, and got home with the penny of peace.
-The diary resumed:--
+The diary resumed:--]
+
+[.small-break]
+'''
 
 In the Twelfth Month of the same year,
 I felt my mind drawn to make a visit to the families of
@@ -50,7 +53,10 @@ I did remember many times in these meetings, the language of David:
 "`Before I was afflicted, I went astray: but now, +++[+++through afflictions],
 have I kept thy word.`"
 
-Our dear friend seems not to have been allowed to remain long at home.
+[.small-break]
+'''
+
++++[+++Our dear friend seems not to have been allowed to remain long at home.
 He could no doubt adopt the language, in his measure, of the dear Master:
 "`My meat is to do the will of Him that sent me.`"
 Feeling his mind drawn in gospel love,
@@ -64,7 +70,10 @@ many not of our Society came together.
 Christopher Healy writes: "`It was a large and good meeting.`"
 
 There does not seem to be much to extract from the account left of this visit,
-save the following memorandum:--
+save the following memorandum:--]
+
+[.small-break]
+'''
 
 The man that I discoursed with,^
 footnote:[See previous visit to New York and Canada.]
@@ -77,8 +86,14 @@ if consistent with his blessed will.
 May they thus know Him as their Shepherd, to lead and feed them,
 before they are called from works to rewards.
 
-While Christopher Healy was out on this visit, the following letter from B. W. Ladd,
+[.small-break]
+'''
+
++++[+++While Christopher Healy was out on this visit, the following letter from Benjamin W. Ladd,
 was received by his wife:--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Smithfield, Ohio, Eighth Month, 26th, 1840.
@@ -139,7 +154,7 @@ for there the Lord commanded the blessing, even life forevermore.
 In affectionate love to thee and thine,
 
 [.signed-section-signature]
-Benj. W. Ladd
+Benjamin W. Ladd
 
 P+++.+++ S. I might have said something to thee in regard to the great sacrifice which at this,
 as well as at many other times,
@@ -152,7 +167,9 @@ in which thou wilt be made a rich partaker.
 [.signed-section-signature]
 B+++.+++ W. L.
 
-Returning from Ohio, Christopher Healy says: "`I remained at and about home,
+--
+
++++[+++Returning from Ohio, Christopher Healy says: "`I remained at and about home,
 except attending many of the meetings within the limits of our Yearly Meeting,
 as well as many appointed ones for those not of our Society;
 much to the relief of my mind.`"
@@ -170,10 +187,12 @@ Forever true, and ever to be heeded by the anointed minister,
 are the Savior`'s gracious words: "`It is not ye that speak,
 but the Spirit of your Father, which speaketh in you.`"
 The service of Christopher Healy in means and end was, to say the least, striking;
-and is as follows:--
+and is as follows:--]
 
+[quote]
+____
 Upon one of his visits to New York Yearly Meeting,
-Cliristopher laid a concern before the Men`'s Meeting to visit that of the Women`'s,
+Christopher laid a concern before the Men`'s Meeting to visit that of the Women`'s,
 when Willett Hicks and some others, did not approve of it.
 But though his prospect was at first opposed by those persons,
 the meeting finally united with it, and James Mott was appointed to accompany him,
@@ -182,23 +201,28 @@ After being in the women`'s apartment about fifteen minutes,
 James Mott said '`Time is precious.`' Christopher sat perhaps five minutes longer,
 and then rose, saying that a concern had attended his mind to visit this meeting,
 without having anything given him; and now he had nothing in charge for them.
-As soon as he sat down, that mother in Israel, Willits,
+As soon as he sat down, that mother in Israel, +++_______+++ Willits,
 expressed her great satisfaction with his faithfulness
 in attending to the intimation of duty,
 and being circumscribed by it.
 Some other valuable Friends expressed their
 unity with him for keeping within holy limits,
 till Christopher said he was afraid they would spoil it all.
-Next day Willett Hicks said to him, '`Before thou went in, the women Friends say,
+Next day Willett Hicks said to him, "`Before thou went in, the women Friends say,
 they could do no business for the quantity of preaching that was going on,
 but thou knocked them stone dead,
-and the meeting afterwards got on comfortably,`' or words to this effect.
+and the meeting afterwards got on comfortably,`" or words to this effect.
 Christopher added, that he was never better paid for a visit than he was for that.
 What an instructive lesson, to attend to manifested duty, in simple obedience,
 and leave results.`"
+____
 
-The subjoined letter from his friend J. Edgerton,
-was received by Christopher Healy in the year 1841:
+[.offset]
++++[+++The subjoined letter from his friend J. Edgerton,
+was received by Christopher Healy in the year 1841:]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Near Barnesville, Belmont Co., Ohio,
@@ -232,25 +256,27 @@ that such a state of mental breathing unto Him,
 who is Head over all things unto His church, will not fail of a due regard.
 
 I feel much for my dear friends in various parts, who are deeply tried,
-and at times may be ready to cry out, The Lord hath forsaken me,
-and my Lord hath forgotten me.`' The subsequent language may,
-through divine mercy be sweetly applied: '`Can a woman forget her suckling child,
+and at times may be ready to cry out, "`The Lord hath forsaken me,
+and my Lord hath forgotten me.`" The subsequent language may,
+through divine mercy be sweetly applied: "`Can a woman forget her suckling child,
 that she should not have compassion on her son? yea, they may forget,
 yet will I not forget thee.
 Behold, I have graven thee upon the palms of my hands;
-thy walls are continually before me.`' My faith is at
+thy walls are continually before me.`" My faith is at
 this time unshaken in the Arm of Israel`'s God,
 that was so wonderfully manifest in the gathering together of this people: as well as,
 from age to age, to raise up and preserve a remnant upon the same eternal Foundation.
-And having brought us thus far.
+And having brought us thus far,
 He will not leave nor forsake.
-For the mountains shall depart, and the hills be removed;
+"`For the mountains shall depart, and the hills be removed;
 but my kindness shall not depart from thee,
 neither shall the covenant of my peace be removed,
-saith the Lord that hath mercy on thee.`'
+saith the Lord that hath mercy on thee.`"
 
 I conclude; my dear wife uniting with me in love to thee, and thy dear wife and children;
 and remain, in the fellowship of the Gospel, thy friend,
 
 [.signed-section-signature]
 Joseph Edgerton
+
+--
